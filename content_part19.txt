@@ -1,3 +1,571 @@
+Chú thíchKhông thể dựa vào nhóm máu A, B, O, AB để xác định chắc chắn 2 người có cùng huyết thống hay không.
+Tuy nhiên một số trường hợp có thể xác định người không cùng huyết thống.
+Ví dụ, nếu cả bố và mẹ mang nhóm máu O thì con cái không thể mang nhóm máu A, B hoặc AB mà chỉ có thể mang nhóm máu O mà thôi.
+Ngược lại, cả bố và mẹ có nhóm máu AB thì con cái không thể có nhóm máu O mà chỉ có thể mang nhóm máu A, B hoặc AB mà thôi.
+Trở về Ninh quốc phủ, thăm thân thăm bạn hết vài ngày, Dương Thu Trì bèn chuẩn bị xuất phát.
+Đêm trước hôm xuất phát mấy ngày, Tống đồng tri dẫn theo Tống Vân Nhi đến Dương phủ bái phỏng, đi theo còn có hai trung niên, một thì cao cao ốm ốm, một thì mập mập lùn lùn miệng luôn nở nụ cười, chính là hình danh sư gia Kim sư gia và Tiền cốc sư gia Long sư gia của Tống đồng tri lúc còn ở Quảng Đức huyện.
+Sau khi phân chủ khách ngồi xong, Tống đồng tri nói:
+Hiền điệt, ngày, ngày mốt là cháu phải đi nhậm chức ở Hồ Quảng rồi, Vân nhi theo cháu niên tuế còn nhỏ, tính, tính tình không tốt lắm, phiền cháu quan tâm nhiều.
+Dương Thu Trì chấp tai:
+Bá phụ nói vậy làm chi, Vân nhi tuy nhỏ tuổi, nhưng người nhỏ mà gan lớn, cơ linh lanh trí, cháu còn mong muội ấy giúp đỡ nhiều nhiều.
+Tống Vân Nhi cười hì hì, sau đó nghênh mạt nói:
+Hừ!
+Ca, huynh đang khen muội hay là chửi muội vậy?
+Mọi cười cùng cất tiếng cười.
+Tống đồng tri lại hỏi:
+Hiền điệt lần này đi, trong, trong nhà đã sắp xếp ổn thỏa hay chưa?
+Cuối năm trước họ đã bàn kỹ để Dương mẫu lưu lại nhà ở inh quốc phủ coi sóc chuyện làm an buôn bán, Phùng Tiểu Tuyết theo Dương Thu Trì đi nhậm chức.
+Sau khi trở về suy nghĩ kỹ, Phùng Tiểu Tuyết và Dương Thu Trì vẫn còn lo Dương mẫu một mình ở đây không ai chiếu cố.
+Nhưng lần này tới Hồ Quảng trấn Viễn châu núi cao đường hiểm, trong thời Minh thì nó vẫn thuộc vùng man di, thực tế không thích hợp để lam chốn an cư.
+Hơn nữa, Ninh quốc phủ là đất thuộc kinh thành, lại có công cuộc làm ăn mà Dương gia cần phải coi sóc là thứ tiếp thu từ Hác viên ngoại, nếu như ủy thác cho người khác chiếu cố, Dương mẫu dù sao cũng không thể yên tâm.
+Do đó, Dương mẫu đã quyết định không cùng con trai tới Hồ Quảng nhậm chức.
+Dương mẫu tuy không muốn rời xa bọn họ, nhưng vì để con trai yên tâm đi nhậm chức, nên cố gắng giấu tâm sự trong lòng, gượng cười bảo để một mình ở lại đây cũng chẳng sao, hơn nữa lại còn có Tống đồng tri và Chu tri phủ chiếu ứng làm chi?
+Hiện giờ khi Tống đồng tri đề cập đến chuyện này, có mặt Dương mẫu tại đó, Dương Thu Trì nhìn Phùng Tiểu Tuyết, nói:
+Con và Tiểu Tuyết đã thương lượng rồi, chúng con muốn để tiểu Tuyết ở lại lo lắng cho mẹ, hơn nữa nhiều chuyện làm ăn như vậy, một mình mẹ lo không xuể đâu, hãy để tiểu Tuyết giúp mẹ để cho đỡ bớt phần nào.
+Như vậy cũng tốt!
+Tống đồng tri khen:
+Lần trước thương, thương lượng ta có chút do dự, bỡi, bỡi vì có câu Bách thiện hiếu vi tiên, trăm điều tốt chữ hiếu đứng hàng đầu, hiền, hiền điệt cùng vợ đi nhận nhiệm sở lưu mẹ già ở nhà, tuy, tuy nói là một phen hảo ý, nhưng là bách bất đắc dĩ, lại, lại không thể thỏa đương.
+Hiền điệt hiện giờ xử lý vậy là hay, hay lắm, chỉ, chỉ có khổ mình cháu mà thôi.
+Dương mẫu nói với Dương Thu Trì:
+Như vậy không được, Tiểu Tuyết cứ đi với con đi, một mình con đi nhậm chức ở xa xôi ngàn dặm như vậy, bên thân chẳng có người thân nào chiếu cố, mẹ không an tâm.
+Tống Vân Nhi xen lời:
+Sao lại không có?
+CÓn con đây chi?
+COn chẳng phải là người thân hay sao?
+Tống đồng tri quát:
+Vân nhi đừng có nói leo.
+Bá, bá mẫu của con nói ở đây là thiếp thân, có nghĩa là người trải chiếu quét giường, tắm rửa thay đồ, con làm được không?
+Tống Vân Nhi nghe thế mặt đỏ hồng, cố nén thẹn thốt:
+Con không làm đâu, ngay cả mền gối con con còn nhờ người khác trải xếp dùm đây chi.
+Dương mẫu đương nhiên hy vọng Tống Vân Nhi có thể thành người thay đồ trải chiếu, có lòng muốn nói câu này ra lắm, nhưng bà dù sao cũng là một nông phụ ở sơn thôn, còn Tống đồng tri là quan ngũ phẩm của triều đình, tuy nói con bà hiện nay cũng là quan huyện lệnh thất phẩm, nhưng trong đầu Dương mẫu vẫn còn có sự phân biệt giai cấp như thế nào ấy, ít nhiều vẫn còn sợ quan, nên nhóp nhép miệng cả buổi mà rốt cuộc chẳng nói được lời nào.
+DƯơng Thu Trì thưa:
+Mẹ, con có thể tự lo liệu được, mẹ cứ yên tâm đi.
+Nếu như bá phụ đã nhận thấy như vậy là phải, thì cứ quyết định như vậy đi, tiểu Tuyết vẫn lưu lại bên mẹ để lo lắng cho mẹ, nếu không con sẽ lo lắng không yên đâu.
+Dương mẫu nghe Dương Thu Trì nói vậy, hơi có chút do dự, không biết như thế nào mới phải.
+Phùng Tiểu Tuyết một mặt thì không yên tâm bỏ mặc phu quân, mặt khác lại không thể để Dương mẫu lại, phải trái đều có cái khó cả.
+Hiện giờ nếu như phu quan đã nói như vậy rồi, nàng liền lên tiếng khuyên Dương mẫu:
+Mẹ, nếu như phu quân đã có lòng hiếu thảo như vậy, mẹ hãy thành toàn cho chàng đi, còn chuyện chiếu cố phu quân thì.
+Nàng liền kề sát tai DƯơng mẫu thầm thì gì đó, DƯơng mẫu mừng rỡ gật đầu lia lịa.
+Dương mẫu nói:
+Nếu đã như vậy, thì Tiểu Tuyết cứ ở lại bên mẹ.
+Tống đồng trì vuốt râu dê vừa ý gật đầu, lại bảo Dương Thu Trì:
+Hiền điệt, cháu, cháu lần này đi phó nhậm, sư gia và trưởng tùy đã chuẩn bị chưa?
+Cổ đại khi đi làm quan, đặc biệt là ở Minh triều, thì đều có danh ngạch hữu hạn, trong khi đó chính vụ phồn mang, không có sư gia và trưởng tùy theo giúp việc thì không thể nào hoàn thành các công tác hàng ngày, cho nên mới có câu vô mạc bất thành nha Không có tùy tòng không thể làm quan.
+Dương Thu Trì đã đến Minh triều khá lâu, điểm này đương nhiên biết, thành thật lắc đầu:
+Cháu định đến Hồ Quảng xong rồi tính.
+Tống đồng tri lắc đầu:
+Như, như vậy không được, Hồ, Hồ Quảng làm gì có người giỏi được?
+Hơn nữa, loại phụ tá này coi như cánh tay trái tay phải của cháu, nhất, nhất định phải là nhân tài biết việc lại hiểu rõ mọi chuyện mới có thể yên tâm.
+Trưởng tùy quan hệ đến an nguy của bản thân và nhà cháu, nên cần phải là người thân cận đáng tin, không thể nào qua loa sơ sài được đâu.
+Dương mẫu nghe thế cảm thấy quả là còn có nhiều điều đáng lo, Tống đồng tri làm quan nhiều năm, hiểu rõ chuyện này.
+Lão đã lên tiếng đương nhiên không sai, lập tức lên tiếng hỏi:
+Ngài có thể giới thiệu cho hài tử vài tùy tòng thận cận để phụ tá được không?
+Ta đang có ý đó, Tống đồng tri đáp, chỉ vào Kim sư gia và Long sư gia sau lưng lão, Hai người họ xuất sinh từ Thiệu Hưng, đều là tú tài xuất thân, phân biệt tinh thông hình danh luật lệ và quản lý tiền lương, đã theo ta nhiều năm giúp ta xử lý chính vụ, trung tâm cảnh cảnh, tinh minh nhạy việc, vô cùng đắc lực, hôm nay xin giới thiệu cho hiền điệt để làm phụ tá vậy.
+Dương Thu Trì mừng rỡ, hai vị sư gia này đều là người quen, chỉ là họ đều là tâm phúc của Tống đồng tri, bản thân hắn cướp người tài như vậy e rằng không ổn.
+Dương Thu Trì vừa định lên tiếng, Tống đồng tri đã đoán được ý nghĩ của hắn, lên tiếng:
+Ta hiện giờ đã thăng lên làm đồng tri của Ninh quốc phủ, không phải là chánh ấn, do đó không cần dùng phụ tá nhiều lắm.
+Hơn nữa, sau này có chuyện cần, ta sẽ tìm người khác là được.
+Hiền điệt niên thiếu có tài, tương lai sau này tiền đồ không thể hạn định, họ theo phò cháu coi như là phúc của họ.
+Kim sư gia và Long sư gia đều bước ra cung thân hành lễ với Dương Thu Trì.
+Kim sư gia đại diện nói:
+Hai người tại hạ thực mong Dương đại nhân sính dùng, nhất định sẽ tận tâm kiệt lực phụ tá đại nhân.
+Được!
+Dương Thi Trì vỗ lưng ghế, vô cùng cao hứng nói với Tống đồng tri:
+Nếu như là như vậy, thì cháu cung kính không bằng tuân mệnh.
+Đa tạ bá phụ!
+Hắn biết thỉnh sư gia cần phải làm giấy mời, lập tức sai người đem giấy mực tới.
+Bản thân hắn không thể nào viết những lời rối rắm rườm ra này, Tống đồng tri bèn chấp bút viết ra hai phong thư mời, đóng dấu tư ấn của Dương Thu Trì lên, rồi để Dương Thu Trì tự tay đưa mời Kim sư gia và Long sư gia.
+Thủ tục làm xong, hai người hiện giờ coi như là phụ tá của Dương Thu Trì rồi, nên hắn cho người hầu an bài chỗ ở cho họ.
+Tống đồng tri lại dặn dò Dương Thu Trì những chuyện cần lưu ý trên quan trường, nhất là nên nghe nhiều hơn là nói nhiều, gặp chuyện thì đừng sính cường ra mặt,  đều được Dương Thu Trì nhớ kỹ trong lòng.
+Họ lại nói chuyện phiếm một hồi, Tống đồng tri và Tống Vân Nhi cáo từ ra về.
+Tiếp đó mấy ngày, Dương mẫu và Phùng Tiểu Tuyết bắt đầu chuẩn bị hành trang cho Dương Thu Trì.
+Dương gia hiện giờ không còn như trước, tiền bạc dư dã, chỉ sợ Dương Thu Trì đến chỗ khỉ ho cò gái, có tiền trong tay mà muốn cái gì cũng không được, nên họ có thể mua được nhiều cái gì thì mua, chất đầy cả mấy xe lớn.
+Tối hôm trước khi khởi hành lên kinh thành, Dương mẫu và Phùng Tiểu Tuyết đem những chuyện cần chú ý dặn dò cẩn thận Dương Thu Trì, đặc biệt là nhấn mạnh chú ý mặc ấm tránh rét, uống rượu ít, lo cho thân thể, vâng vâng và vâng vâng.
+Dương Thu Trì nghe mà đầu càng lúc càng to ra, cười khổ nói:
+Mẹ, Tiểu Tuyết, con đã tới từng tuổi này rồi mà, tự biết chiếu cố bản thân rồi, Nói đến đấy, hắn cố ý chọc họ, Nếu mà hai người lo lắng thiệt, thì tìm một bảo mẫu lo lắng chăm cho con là được.
+Không ngờ Phùng Tiểu Tuyết gật đầu thật:
+Phu quân nói rất đúng, chuyện này tối hôm trước thiếp đã bàn kỹ với mẹ rồi, nha hoàn Nguyệt Thiền gần đây phục dịch chàng rất tốt, cứ để cho nó đi cùng với chàng đi, để còn tùy thân phục dịch cho chàng.
+A?
+Dương Thu Trì cười khổ, Hai người thiệt là tìm bà vú nhỏ chiếu cố cho ta à?
+Sau đó nghĩ lại, trong đêm Tống đồng tri đến thăm, Dương mẫu và Phùng Tiểu Tuyết nói gì đó, sau đó Dương mẫu mới đồng ý cho Tiểu Tuyết lưu lại, thì ra là họ nói về chuyện này.
+Đúng vậy, Dương mẫu cười hề hề, Đây là chuyện Tiểu Tuyết và mẹ đã thương lượng kỹ rồi, tiểu nha đầu Nguyệt Thiền hiểu chuyện, biết lúc nào lạnh lúc nào nhiệt, rất hợp với ý chúng ta.
+Những ngày gần đây nó phục thị con rất tốt, có nó ở cạnh chiếu cố cho con, chúng ta mới yên tầm được phần nào.
+Phùng Tiểu Tuyết nói:
+Đúng vậy, Vân nhi cô nương võ công cao cường, có cô ta và các hộ vệ bảo vệ phu quân, chúng ta không lo gì.
+Nhưng Vân nhi cô nương tính tình hào sảng, lại là thiên kim tiểu thư của nhà quan, từ trước giờ người ta phục dịch cô ấy chứ cô ấy có phụ dịch ai bao giờ, đừng hy vọng vào cô ta lo cho phu quân, do đó mang theo tiểu nha hoàn là tốt nhất.
+Dương mẫu nói tiếp:
+Nguyệt Thiền thông minh nhanh nhẹn, hiểu biết ý người, lại biết chiều chuộng quan tâm, dáng người lại đẹp, làm tiểu thiếp thật không tệ chút nào.
+Trước chúng ta đã thương lượng rồi, chờ nha đầu Nguyệt Thiền lớn một chút, thì để nó hầu phòng cho con.
+Do đó, nó lần này theo con, tùy lúc nào con thấy thích hợp thì cứ thu lấy nó, không cần hỏi ý kiến chúng ta nữa.
+Hai người họ một xướng một hợp, Dương Thu Trì không có cơ hội chen miệng vào chút nào.
+Khó khăn lắm mới tìm được chút chen lời, thì Dương mẫu lại tiếp:
+Đúng rồi, nói đến chuyện nạp thiếp ta mới nhớ, ta và tiểu Tuyết cũng thương lượng qua rồi, con lần này đi nhậm chức có nhiệm kỳ ba năm.
+Trong ba năm này nếu gặp được cô nương nào thích hợp thì con cứ tự làm chủ nạp lấy làm thiếp.
+Mấy nhà giàu ai không có tam thê tứ thiếp chứ.
+Chuyện này con cứ tự làm chủ là được.
+Tốt nhất là khi mãn nhiệm hồi kinh, mang theo mấy đứa nhóc về là ta cao hứng rồi.
+Phùng Tiểu Tuyết cũng nói:
+Đúng vậy, phu quân, chàng hiện giờ là quan lão gia rồi, nạp mấy phòng tiểu thiếp cũng đâu có quá gì, gặp được người thích hợp thì thu đi, mẹ chúng ta chờ ẵm cháu lâu lắm rồi.
+Phùng Tiểu Tuyết đương nhiên minh bạch phu quân dù sao cũng nạp hai tiểu thiếp rồi, chính là vì chỉ mong sao cho có được đứa con thôi, một ngày mà chồng nàng không có con, ngày đó coi như chưa hoàn thành chuyện nạp thiếp.
+Dương Thu Trì vừa định lên tiếng, Dương mẫu đã chuyển thân gọi:
+Nguyệt Thiền, ngươi qua đây.
+Lúc bọn họ nói chuyện, ba nha hoàn Nguyệt Thiền, Tiểu Điệp, Hương Tình đều đứng hầu ở sau lưng.
+Nguyệt Thiền đã đem lời họ bàn ghi hết vào lòng rồi, hiện giờ vừa hoảng loạn vừa ngọt ngào, nghe Dương mẫu gọi thế vội vã chạy đến nhún người thưa:
+Lão phu nhân.
+Dương mẫu cầm tay Nguyệt Thiền hỏi:
+Những lời chúng ta vừa nói, ngươi đã nghe hết rồi chứ?
+Nguyệt Thiền đỏ mặt gật gật đầu.
+Dương mẫu bảo:
+Sau này coi như giao thiếu gia cho ngươi, ngươi phải chăm sóc cho cẩn thận, sau này ngươi là người nhà họ Dương ta, nếu không ta cũng đáp ứng đâu, nghe rõ chưa?
+Nguyệt Thiền quỳ xuống dập đầu lạy Dương mẫu và Phùng Tiểu Tuyết:
+Nguyệt Thiền đa tạ lão phu nhân và thiếu phu nhân hậu ái, Nguyệt Thiền nhất định tận tâm kiệt lực phục thị thiếu gia cho tốt, thỉnh lão phu nhân và thiếu phu nhân yên tâm.
+Dương mẫu và Phùng Tiểu Tuyết mỉm cười vừa ý.
+Dương mẫu lúc này mới hỏi Dương Thu Trì:
+Thu Trì, ý của con thế nào?
+Dương Thu Trì cười khổ:
+Mọi người an bày ổn thỏa hết cho con rồi, con còn nói gì nữa đây.
+Nói thật ra thì có một tiểu nha hoàn mỹ lệ và ngoan ngoãn hầu hạ, bản thân hắn tỉnh tâm hơn nhiều, thậm chí còn cao hứng nữa.
+Bàn xong đâu đấy, Nguyệt Thiền vội vã đi thu thập mọi thứ.
+Dương mẫu biết ngày mai Dương Thu Trì cần phải đi xa, cần nghỉ sớm, hơn nữa còn những lời tâm lý cần phải tâm sự với vợ, nên không làm kỳ đà cản mũi nữa, cáo từ trở về phòng nghỉ ngơi.
+Phùng Tiểu Tuyết thật không muốn rời xa phu quân, nhưng không còn cách nào khác, chỉ có thể cố gắng cho cái gọi là Bách thiện hiếu vi tiên mà thôi.
+Hơn nữa, nhà nàng còn có chuyện làm ăn cần phải chiếu cố, cho nên đành phải nhịn đâu mà chia biệt.
+Nhưng dù sao thì Phùng Tiểu Tuyết cũng là người hiểu biết, nàng biết nếu như bản thân đau lòng khóc lóc, sẽ khiến phu quân vướng víu không thể yên tâm đi phó nhậm, do đó ráng nở nụ cười nói chuyện cùng phu quân.
+Dương Thu Trì đương nhiên hiểu tâm tư của Phùng Tiểu Tuyết, vợ của hắn tuy có bớt đen trên mặt, ảnh hưởng dung mạo, nhưng tâm địa của nàng thiện lương, hiểu rõ nhân tình, là trường hợp điển hình của vợ hiền dâu thảo, do đó Dương Thu Trì càng lúc càng yêu nàng hơn.
+Ly biệt trong phút giây, tâm hắn làm sao mà cầm cho được?
+Nếu như Tần Chỉ Tuệ và Búp bê bùn Tống Tình không bị bà già dịch kia bắt mất, thì chí ít cũng quay vòng đưa đón.
+Cái bà chủ chứa già khốn kiếp đó!
+Nhất định phải nghĩ biện pháp bắt mụ ta, cứu hai tiểu thiếp trở về mới được.
+Đêm ấy hai người tâm sự hàn huyên, ôn tồn triền miên, cho đến khi gà gáy ba lần mới ôm nhau mà ngủ.
+o0oSáng hôm sau, các xe ngựa trước Dương phủ đã chuẩn bị sẵn sàng.
+Nếu như Phùng Tiểu Tuyết không cùng mình đi nhậm chức nữa, Dương Thu Trì lưu lại bốn nữ hộ vệ tại Ninh quốc phủ để bảo vệ cho Dương mẫu và Phùng Tiểu Tuyết, còn nữ hộ vệ Hạ Bình thì cùng hắn đi để chiếu cố và bảo hộ cho hai mẹ con Bạch Tố Mai.
+Nam Cung Hùng mang theo mười lăm hộ vị cưỡi ngựa.
+Dương Thu Trì ôm chú chó cưng Tiểu Hắc cẩu và hai lồng bồ câu đưa thư cùng Tống Vân Nhi và tiểu nha hoàn Nguyệt Thiền ngồi cùng một xe.
+Hai vị sư gia ngồi ở một xe khác.
+Những xe phía sau chất đầy đồ đạc do Dương mẫu và Phùng Tiểu Tuyết mua, cùng một lượng lớn kim ngân châu báu và đồ tế nhuyễn.
+Ngoài ra, còn có một xe chuyên môn chở cái tủ hợp kim của Dương Thu Trì, vốn là món bảo bối mà hắn xuyên việt từ thế giới hiện đại tới đây.
+Chuẩn bị xong xuôi, mọi người xuất phát tiến về kinh.
+Dương mẫu, Phùng Tiểu Tuyết, Tống đồng tri, Hàn thị và các tiểu thiếp của Tống đồng tri cùng Chu tri phủ và các vị bằng hữu của Dương Thu Trì nhất mực tiễn ra đến ngoài thành mới bịn rịn chia tay.
+Trên đường không có chuyện gì xảy ra, đến ngày thứ ba họ đã đến kinh thành, và chiếu theo quy củ đến ở chỗ Thiên hộ sỡ của Mã Độ và Ngưu đại hải.
+Đêm hôm đó, Mã Độ, Ngưu Đại Hãi, Cổ hàn lâm, cố phủ doãn thiết yến tẩy trần Dương Thu Trì.
+Cố phủ doãn nói, Bạch phu nhân và Bạch Tố Mai đã được chuyển vào đại lao của Ứng Thiên Phủ, lão đã an bài ổn thỏa, có thể khởi hành bất cứ lúc nào.
+Bức thư viết cho quan đề hình án sát sứ Khang Hoài ở Vân Nam cũng đã viết xong, lão giao ngay cho Dương Thu Trì luôn.
+Dương Thu Trì vô cùng cao hứng, kính Cố phủ doãn mấy chung để biểu thị sự cảm tạ.
+Ngày hôm sau, Dương Thu Trì mang theo hộ vệ đến Lại bộ lỉnh Bằng chiếu, chính là thứ thư thông tri kiêm thông hành chứng để sử dụng trên đường.
+Còn về việc thư nhận chức thì đã sớm phát đến Hồ Quảng thông quan cách dịch trạm chuyên môn của nhà quan rồi.
+Các quan viên ở Lại bộ mới đầu còn ra vẻ quan liệu, Dương Thu Trì cũng lười không muốn nói nhiều, cứ bao lì xì dẫn lối, khiến cho những quan viên này lập tức đổi nét mặt tươi cười, để rồi hắn thuận lợi cầm tờ Bằng chiếu trong tay.
+Theo quy cũ, nếu như đã nhận Bằng chiếu rồi thì trong vòng mười lăm ngày phải khởi hành đi nhậm chức.
+Dương Thu Trì trở về thiên hộ sở của cẩm y vệ, Cổ Hàn lâm và Cố phủ doãn đã chờ sẳn ở đó, mọi người cùng tính toán ngày khởi hành.
+Và ngày đó cuối cùng cũng đến, Dương Thu Trì cuối cùng cũng gặp lại được Bạch phu nhân và Bạch Tố Mai.
+Khi cấm tốt đưa hai người ra, tay chân đều đeo dây xích, nhưng tinh thần đã khá hơn lúc trước nhiều.
+Chỉ có điều Bạch phu nhân rõ ràng là già hơn trước, còn Bạch Tố Mai thì đầu đội mão ni cô, người mặc áo nâu sòng, thân hình ôm ốm có vẻ thanh tú thoát tục, so với trước đã ốm hơn nhiều, khiến cho đôi mắt to hơn, trong trẻo và sâu hút hơn.
+Chỉ có điều, trên mặt và mắt nàng không có nhiều vẻ ưu thương như ở Bạch phu nhân, có lẽ sau khi xuất gia nàng đã biết cách làm thế nào để điều tiết tâm cảnh của bản thân, hơn nữa sau khi chết đi sống lại nhiều lần, tinh thần và ý chí có vẻ như đã được toi luyện cứng cáp hơn nhiều.
+Thật ra thì thân thể của họ không tệ lắm, xem ra sau khi Mã Độ có lời dặn dò, trong nhà ngục của cẩm y vệ họ được đãi ngộ đặc biệt tốt, và khi chuyển đến đại lao của Ứng thiên phủ vốn không canh gác hay hình phạt nghiêm ngặt như ở chỗ của cẩm y vệ, lại còn được Cố phủ doãn đặc biệt quan tâm, nên thân thể và tâm tình từ từ khỏe lên.
+Bạch phu nhân và Bạch Tố Mai định dập đầu cảm tạ Dương Thu Trì thì bị hắn ngăn lại nói:
+Tôi chuyên môn đến đây là để hộ tống Bạch phu nhân và Bạch cô nương hai người đến Vân Nam, sau khi an bày ổn thõa xong mới đến Hồ Quảng nhậm chức.
+Mã Độ ở cạnh đó giới thiệu:
+Dương huynh đệ đã được bổ nhiệm thành quan tri huyện huyện Thanh Khê ở Hồ Quảng trấn Viên châu.
+Cổ đại nói lưu đày ba nghìn dặm bao gồm ý bát buộc phải dùng chân không tự đi đến chỗ lưu đày, thậm chí còn bị tròng lên cổ cái giá gỗ nặng ba mươi cân, phía sau có quan sai cầm hỏa côn tùy lúc chăm sóc.
+Cho nên người đi đày này không chết cũng bị lột da hay tuột chân, hơn nữa hai mẹ con họ là phận nữ lưu, trên đường đi không khỏi bị người ta lăng nhục.
+Do đó, hai mẹ con Bạch phu nhân đã cho rằng phen này nhất định chết ở trên đường, nhưng hiện giờ nghe Dương Thu Trì đích thân đưa họ tới Vân Nam, nên vừa kinh vừa mừng, lại nghe nói Dương Thu Trì đã trở thành huyện lệnh, nên càng mừng thêm cho hắn.
+Bạch phu nhân nói:
+Dương công tử, không, Dương đại nhân quả nhiên là thiếu niên anh tài, rất tiếc năm xưa lão gia chúng tôi Nói đến đây, bà lại đau lòng nhớ lại chuyện xưa, lệ nhỏ ròng ròng.
+Bạch Tố Mai đỡ Bạch phu nhân, cúi đầu không nói gì.
+Tống Vân Nhi đã từng cõng Bạch Tố Mai chạy khỏi biển lửa ở Ân gia, nên hai người có thể coi như là sinh tử chi giao, liền bước đến an ủi.
+Bạch Tố Mai thấy có Tống Vân Nhi, cảm thấy hơi bất ngờ, lại nghe Tống Vân Nhi sẽ cùng đến Vân Nam nên mừng rỡ hơn nữa, yên tâm ngay lập tức.
+Án theo quy củ, tội phạm đi đày rời khỏi thành phải giải trên đường bêu chúng, Cố phủ doãn cho miễn luôn, lại còn chuẩn bị cho họ một cổ xe ngựa để che chắn bảo vệ kỹ, lại lén nói cho DƯơng Thu Trì hay, là chờ sau khi rời khỏi kinh thành, có thể mở khóa ra được.
+Hai vị quan sai phụ trách áp giải đều là người thân tính của Cố phủ doãn, sau khi được dặn dò kỹ lưỡng, tiếng là phụ trách áp giải phạm nhân lưu đày đi tây nam, nhưng thực ra là đi đầu dẫn lộ.
+Dương Thu Trì lại chuẩn bị cho họ hai thớt ngựa tốt, trọng thưởng không ít ngân lượng, khiến hai người mừng rỡ vô cùng, vội vã dập đầu cảm tạ.
+Sau khi từ biệt Mã Độ cùng mọi người, Dương Thu Trì cùng một hàng hai mươi ba người cùng xuất phát đi Hồ Quảng.
+Mã Độ mang theo mười cẩm y vệ cưỡi ngựa lớn đi mở đường phía trước, sau đó là xe ngựa của Dương Thu Trì, kế là xe của Bạch phu nhân và Bạch Tố Mai, phía sau nữa là xe ngựa của Kim sư gia và Lòng sư gia cùng các xe kim ngân và hành lý.
+Đi sau cùng là Hạ Bình dẫn theo các cẩm y vệ còn lại và hai vị quan sai.
+Dư đảng của Kiến Văn đế lần trước bị Dương Thu Trì tiêu diệt hơn trăm người, tổn thất thảm trọng.
+Thứ hao tổn đó hiện giờ họ không thể nào hồi phục nổi, hơnnữa hiện giờ Dương Thu Trì đã có phòng bị, mười mấy cẩm y vệ hộ vệ của hắn đều là tay hảo thủ có thể một địch mười, nên cho dù Kiến Văn dư đảng sẽ không động thủ chính diện với hắn, và nhất thời bán khắc cũng không thể tổ chức tiêu diệt hết lực lượng cường đại của hắn được.
+Do đó, Dương Thu Trì đoán rằng trên đường đi sẽ không gặp bất trắc gì.
+Nhưng do lần trước đã gặp phải giáo huấn, Nam Cung Hùng và Hạ Bình đều cẩn thận phi thường, trên đường lúc nào cũng để tâm giới bị.
+Trong xã hội hiện đại, Dương Thu Trì thường đi công tác xa, nhưng hầu hết các chuyến đi này đều là ngồi xe, ngồi thuyền hay máy bay, chứ chưa bao giờ ngồi xe ngựa mà đi xa thế này.
+Ba ngàn dặm chân chính, quả thật là xa!
+Dương Thu Trì ra lệnh không cần đi gấp, cứ từ từ mà tiến.
+Sau khi xuất thành, hắn cho dừng lại tu chỉnh, hai vị quan sai của Ứng thiên phủ lại mở khóa xe và xiềng xích cho Bạch phu nhân và Bạch Tố Mai, sau đó tiếp tục cuộc hành trình.
+Từ kinh thành Ứng Thiên phủ đi ra, bọn họ đi trên quan đạo.
+Quan đạo tuy không thể sánh được với công lộ cao tốc như ngày nay, nhưng cũng có đội chuyên duy tu bảo dưỡng, nên mặt đường rất bằng phẳng.
+Dương Thu Trì, Tống Vân Nhi và tiểu nha hoàn Nguyệt Thiền ngồi trong một cổ xe ngựa lớn.
+Đây chính là thứ Phùng Tiểu Tuyết chuyên môn sai người làm.
+Dù gì thì họ cũng đi theo đường quan đạo, do đó chiếc xe ngựa đặc chế này so với toa xe lửa có buồng lạnh ngày nay còn rộng hơn, lại được lót nệm ấm mịn rất dễ chịu.
+Phùng Tiểu Tuyết thực ra đã trả giá cao mời chuyện gia có kinh nghiệm trong chuyện đóng xe ngựa này làm riêng cho Dương Thu Trì, do đó tính năng giảm xóc đặc biệt đã giúp cho chiếc xe hào hoa đi trên quan đạo êm như ru, thoải mái vô cùng, khiến tâm tình của Dương Thu Trì cùng hai nàng phơi phới như đi dạo cảnh.
+Hiện giờ là trời đông tháng giá, gió lạnh buốt xương, nên chờ cho Cố phủ doãn và mọi người cáo biệt không ra ngoài thành, tiểu nha hoàn Nguyệt Thiền liền kéo rèm trước sau xuống hết, cho rèm sau cơi lên một chút để thoáng khí, sau đó cho lò sưởi trong xe cháy đượm lên tỏa ra hơi ấm khắp buồng.
+Thứ lò sưởi bằng than này là loại lò sưởi tay chuyên dùng trên các xe ngựa thời cổ đại, làm từ đồng thau, có phần che phía trên, ở dưới có vật trang trí loe ra, có thể giữ sự cân bằng trong đường gập ghềnh và giữ cho than lửa trong đó không bắn ra.
+Như vậy, trong xe không hiềm buồn bã cũng không sợ lạnh.
+Chỉ có điều, ba ngàn dặm này không phải đi ngày một ngày hai là đến, hành trình quá khô khan, làm sao để vượt qua đây?
+Dương Thu Trì và Tống Vân Nhi nói chuyện phiếm một hồi, cảm thấy mệt mỏi, bèn ngồi dựa vào gối mà ngáp vặt.
+Tống Vân Nhi trước giờ chưa rời xa nhà thế này, cảm thấy rất mời mẽ, dán vào cửa sổ nhìn ra ngoài.
+Bên ngoài đầy rẫy sự thê lương, cảnh vật điêu linh, gió lạnh thổi qua, khói sương mù mịt.
+Thỉnh thoảng có thể thấy được một hai nông hán vừa run vừa bước đi trong tuyết, không biết là đang làm gì.
+Nhìn một lúc, nàng cảm thấy buồn chán, lại dòm ra cửa sau.
+Nàng thấy xe ngựa của mẹ con Bạch phu nhân dằn sốc rất dữ, xem ra chất lượng không ra gì.
+Theo độ dằn sốc của xe, mảnh vải phủ phía trước thỉnh thoảng bị gió tốc lên, gió lạnh luồn hết vào bên trong.
+Xe ngựa của Kim sư gia và Long sư gia được Phùng Tiểu Tuyết cho người chuyên môn đóng chế, tuy không hào hoa sánh với xe của Dương Thu Trì, nhưng sự thoải mái và chống lạnh hơn hẳn các xe ngựa khác nhiều.
+Còn xe ngựa của mẹ con Bạch phu nhân là xe ngựa phổ thông ở Ứng thiên phủ, khá đơn giản thô sơ.
+Tống Vân Nhi lay gọi Dương Thu Trì:
+Ê!
+Ca.
+Tỉnh tỉnh!
+Mau tỉnh dậy!
+Dương Thu Trì nhướn cặp mắt ngáy ngủ:
+Gì vậy?
+Xe ngựa này lắc ta thích quá, tranh thủ ngủ chút đây.
+Đừng ngủ nữa!
+Tống Vân Nhi dựa sát vào cửa sổ phía sau nhìn ra, Xe ngựa của Bạch phu nhân không chịu được gió lạnh, có thể là đang đông cứng kìa!
+Câu này khiến DƯơng Thu Trì tỉnh ngủ ngay, ngồi dậy cái rụp, dán sát vào cửa sổ nhìn ra.
+Tiểu nha hoàn Nguyệt Thiền cũng chồm tới, còn không đợi cô bé nhìn, Dương Thu Trì đã gọi:
+Mau dừng xe, chúng ta ra đó xem sao!
+Xe ngựa của Dương Thu Trì dừng lại, toàn đội xe cũng dừng theo.
+Hắn bước xuống xe, đi mấy bước tới xe sau, vén rèm lên, thấy Bạch phu nhân và Bạch Tố Mai rút vào một chỗ, trên người Bạch phu nhân khóac cái áo hồ cừu mà Dương Thu Trì đã tặng lúc còn trong nhà ngục của cẩm y vệ.
+Hai ngươi tuy mặc rất dày, nhưng trong thời tiết âm u gió lạnh thổi ù ù thế này, xe lại không có là than, nhất định là họ đang rét cóng.
+Bạch Tố Mai nhìn thấy Dương Thu Trì, ánh mắt lộ ra chút gì đó vui mừng, rồi lại ảm đạm lại ngay.
+Bạch phu nhân nhìn Dương Thu Trì, miễn cưỡng cười:
+Dương đại nhân, có chuyện gì sao?
+Bạch phu nhân, xe này của phu nhân lạnh quá, cần phải nghĩ biện pháp sưởi ấm mới được, nếu không chờ đến tối nghỉ ngơi thì hai người đã bị lạnh đổ bệnh mất rồi.
+Tống Vân Nhi và Nguyệt Thiền cũng bước tới, Dương Thu Trì hỏi Nguyệt Thiền:
+Trong hành lý của chúng ta còn có lò sưởi dư không?
+Nguyệt Thiền lắc đầu:
+Chỉ chuẩn bị hai cái, một cái trên xe chúng ta, cái còn lại trên xe của hai vị sư gia.
+Thứ đồ này nặng mà chiếm chỗ nhiều lắm, nên lão phu nhân và mợ lớn chỉ chuẩn bị có hai cái.
+Vậy thì phiền phức rồi, nếu như đem cái của hắn cống hiến ra, Tống Vân Nhi thân có võ công không sợ lạnh, nhưng tiểu nha hoàn Nguyệt Thiền sẽ rét, và quan trọng nhất là bản thân hắn cũng sợ nhất là lạnh, sẽ không chịu nổi.
+Nếu lấy cái của hai vị sư gia đưa cho họ thì không biết nói thế nào, và cũng không thể làm vậy.
+Bạch phu nhân khoát tay:
+Dương công tử, không sao đâu, chúng tôi không hề gì, mặc dày lắm đây này.
+Bạch Tố Mai nhìn Dương Thu Trì rồi cúi đầu không nói gì, gương mặt trắng mịn bị buốt đỏ ửng lên.
+Dương Thu Trì đang suy nghĩ xem nên làm cách nào, thì Tống Vân Nhi đứng sau lưng chợt lên tiếng:
+Ca, sao không gọi Bạch phu nhân cùng lên xe chúng ta, như vậy chẳng giải quyết ổn thỏa hay sao?
+Dù gì thì xe của chúng ta rộng lắm, ngồi thêm hai người nữa không thành vấn đề.
+Dương Thu Trì cũng có ý đó, nhưng lại lo Tống Vân Nhi đa nghi và nhạy cảm, lại sợ người khác nhiều chuyện.
+Nếu như Tống vân Nhi đã nói ra như vầy rồi thì quá tốt, mọi người ở chung một chỗ càng náo nhiệt.
+Dương Thu Trì đang lo chuyến lữ đồ này buồn chán đây, nên lập tức nói:
+Đề nghị của Vân Nhi rất hay, Bạch phu nhân, Bạch cô nương, thỉnh hai vị lên ngồi xe của chúng tôi.
+Bạch phu nhân định từ chối, nhưng thấy Bạch Tố Mai rét như vậy nên lòng thương lắm, lời vừa tới miệng đã vội nuốt xuống, chỉ biết cảm tạ liên hồi.
+Tiểu nha hoàn Nguyệt Thiền nhanh chóng đỡ Bạch phu nhân xuống xe bước lên xe ngựa to lớn phía trước, rồi quay lại cầm quần áo của hai người, mọi người lên xe tiếp tục đi.
+Sau khi Bạch Tố Mai dìu mẹ lên xe, đỡ bà đến ngồi ở một góc.
+Trong xe quả nhiên ấm áp, hai người nhanh chóng lấy lại thần sắc.
+Dương Thu Trì nói với Nguyệt Thiền:
+Nguyệt Thiền, trên đường đi ngươi cần phục thị cho Bạch phu nhân nhiều nhiều.
+Nguyệt Thiền trước đây là nha hoàn của Bạch phu nhân, sau được tặng cho Dương Thu Trì, nên cô bé đương nhiên biết nên hầu hạ như thế nào, bèn vâng dạ:
+Dạ, thiếu gia!
+Không không, như vậy không được!
+Bạch phu nhân vội xua tay liên tục, hai mẹ con bà có thể được Dương Thu Trì quan hoài như thế, chẳng khác nào người tự do, lòng cảm kích vô cùng, có lý nào lại để cho nha hoàn phục dịch, nên kiên quyết không chịu.
+Dương Thu Trì khuyên nhủ vài lời, Bạch phu nhân vô cùng kiên quyết, nên không còn cách nào khác, đành cứ cho qua.
+Nguyên hắn cho là người đông náo nhiệt, nhưng Bạch Tố Mai lên xe rồi chẳng nói chẳng rằng, chỉ ngồi ở một góc im lìm tụng kinh.
+Vừa rồi cùng Tống Vân Nhi và tiểu nha hoàn Nguyệt Thiền ở trên xe, Dương Thu Trì không coi hai người là nữ nhân, nên uốn vai xoạc eo rất tự do, nhưng hiện giờ có Bạch phu nhân và Bạch Tố Mai trên xe, hắn cảm thấy bó buộc vô cùng.
+Bạch Thiên tổng vốn muốn gả Bạch Tố Mai cho Dương Thu Trì, chỉ vì yêu cầu Dương Thu Trì phải bỏ vợ mà chuyện không thành, và điều này dẫn đến Bạch Tố Mai thương tâm tuyệt vọng, không còn ý phàm trần, độn nhập vào không môn.
+Sau đó Bạch gia lại gặp họa kiếp, tuy Dương Thu Trì đã cứu được hai mẹ con họ, nhưng hắn vẫn cảm thấy thiếu nợ Bạch Tố Mai điều gì đó.
+Bạch phu nhân hiện giờ vô cùng cảm kích Dương Thu Trì, chỉ cầu bản thân và con gái bình an là được, nào dám mơ ước xa vời đến chuyện Dương Thu Trì có thể nạp Bạch Tố Mai làm thiếp.
+Do đó trên xe tuy có năm người nhưng chẳng ai nói chuyện, nhất thời vô cùng an tĩnh, chỉ có tiếng bánh xe lộc cộc và tiếng gió u u bên ngoài.
+Trên xe ngựa không có ghế, chỉ ngồi trên sàn.
+Người thời cổ đã quen với việc ngồi xếp bằng, nhưng Dương Thu Trì thì không, thế mà từ khi hai người họ lên xe, hắn phải lão thật học ngồi cho thẳng, nên chẳng mấy chốc sau lưng đùi chân cẳng đều tê dại hết.
+Nguyệt Thiền ngồi ở cạnh Dương Thu Trì, thấy hắn cứ lắc lư qua lại, đoán là hắn ngồi không quen, bụm miệng cười bảo:
+Thiếu gia, người đưa chân thẳng ra đây, Nguyệt Thiền giúp người bóp chân cho.
+Nếu như Dương Thu Trì mới vừa xuyên việt tới Minh triều, hắn nhất định sẽ giật nãy mình khe nghe lời này.
+Nhưng đã ở lâu rồi, hắn trở nên quen với sinh hoạt hủ bại của tiểu địa chủ trong xã hội phong kiến, hơn nữa hiện giờ chân tê dại khó chịu vô cùng, liền nhìn Bạch Tố Mai một cái, thấy nàng đang nhắm nghiền mắt tụng kinh, liền định len lén đưa chân ra sau lưng Nguyệt Thiền.
+Nguyệt Thiền phì cười, ôm hai chân của hắn kéo tới trước mặt.
+Dương Thu Trì quẫn bạch, nhưng không tiện rút về, rất may là chân hắn mặc vớ dày, mỗi ngày đều thay nên không bị mùi chân, nên không gây khó chịu cho tiểu nha hoàn mỹ lệ này.
+Nguyệt Thiền khẽ bóp chân và đùi cho Dương Thu Trì, khiến hắn cảm thấy rất thoải mái, từ từ quên đi sự khẩn trương.
+Thấy Bạch Tố Mai cứ mãi niệm kinh, nên hắn không tiện làm phiền.
+Chờ mãi mới thấy nàng niệm xong, hắn bèn hỏi:
+Bạch cô nương, ta có vấn đề có thể hỏi cô được không?
+Bạch Tố Mai mở mắt, hơi e thẹn, đưa tay khẽ vuốt nhẹ lọn tóc đã lâu không cạo, đôi mắt sáng ngời lấp lóe ánh sao, nói:
+Thỉnh công tử cứ nói.
+Dương Thu Trì ngồi thẳng dậy:
+Bạch cô nương xuất gia, pháp danh xưng hô thế nào?
+Pháp hiệu là tam kiếp.
+Tam kiếp?
+Dương Thu Trì hơi suy nghĩ, lập tức minh bạch ý tứ của pháp hiệu này, nó chỉ ba lần kiếp nạn, ba lần chết đi sống lại.
+Nghĩ đến chuyện xưa, hắn nhớ đến làn môi mềm mại của Bạch Tố Mai, nhớ đến gò ngực mềm mại của nàng, tim trong lồng ngực tức thời dồn dập.
+Tống Vân Nhi chen lời:
+Bạch cô nương, cô ba lần gặp kiếp nạn, không, nếu tính lần sau này nữa là bốn lần, đều được ca ca của ta cứu, hai người quả là có duyên phận a.
+Bạch Tố Mai gật đầu, mặt cũng hơi đỏ lên, không biết là nàng nhớ tới lần Dương Thu Trì hô hấp nhân tạo cho nàng, hay là nhớ đến tình cảnh nhào vào lòng hắn lúc còn ở Vân Nhai Sơn.
+Bạch phu nhân tiếp lời:
+Đúng a, nhà này cứ lần lượt vô duyên vô cớ liên can đến các vụ mưu phản, Bạch gia có tới bốn lần bị nạn, đều là do Dương công tử cứu cho.
+Dương công tử đối với Bạch gia chúng ta ân trọng như núi.
+Dương Thu Trì khoát tay:
+Phu nhân ngàn vạn lần đừngnói như vậy, nếu thế tôi thật ngại quá rồi.
+Tống Vân Nhi hỏi Bạch Tố Mai:
+Bạch cô nương, cô niệm kinh sao không nhìn kinh văn vậy, bài kinh dài như vậy mà nhớ nổi hay sao?
+Dương Thu Trì chen lời:
+Vân nhi, muội võ công cao cường, nhiều chiêu thức như vậy muội làm sao nhớ được?
+Luyện đi luyện lại, lâu ngày thì nhớ thôi.
+Tống Vân Nhi có chút đắc ý, hỏi tiếp Bạch Tố Mai:
+Bạch cô nương xuất gia không lâu lắm, nhiều kinh văn như vậy làm sao nhớ hết?
+Bạch Tố Mai nhìn lò than ở giữa, nhẹ nhàng đáp:
+Trong sơn miếu trừ việc niệm kinh còn có thể làm gì khác?
+Trong đầu Dương Thu Trì chợt hiện lên hình ảnh áo nâu lậy phật, đèn dầu leo lét của Bạch Tố Mai, không khỏi thở một tiếng dài:
+Bạch cô nương, sau ba năm đi đày rồi, cô còn định trở về tự miếu nữa không?
+Thần tình Bạch Tố Mai ảm đạm:
+Tôi là kẻ bất tường, lần này hại chết phu quân và công công, tận mắt chứng kiến muội muội chết thảm mà không nói ra được, cha lại tao ngộ họa từ trên trời rơi xuống, sư phụ nói đó là tội nghiệt từ kiếp trước của tôi, kiếp này phải hoàn lại cho hết.
+Do đó lúc tôi xuống tóc quy y, đã quyết định suốt cuộc đời tàn này sẽ ăn chay niệm phật, chuộc lại lỗi lầm kiếp trước.
+Dương Thu Trì trừng mắt nói:
+Sư phụ cô nói bậy!
+Chuyện này làm sao có thể trách cô được?
+Hai cha con Ân Đức gian sát muội muội của cô là do tự họ tạo nghiệt, không thể tiếp tục sống, sao có thể đổ lên đầu cô?
+Bạch thiên tổng bị thủ hạ mưu phản quan binh liên lụy, liên lụy mới chết, càng không thể trách cô được.
+Sư phụ của cô thật là.
+thật là.
+Dương Thu Trì tức đến nỗi hồ đồ luôn, nói mãi một loạt từ thật là, cuối cùng thật là cái gì cũng không nói ra được.
+Bạch Tố Mai cúi đầu nhỏ lệ:
+Tôi đã trốn vào của thiền rồi, ân oán tình cừu lúc trước đối với tôi giờ tựa như mây khói.
+Tống Vân Nhi chen lời:
+Bạch tỷ tỷ, tỷ hiện giờ bị đày ba nghìn dặm, đã rời khỏi cửa Phật rồi, cái gọi là xuất gia kia không thể kể được nữa.
+Dừng lại một chút, nàng lại chỉ lên đầu Bạch Tố Mai:
+Tóc trên đầu tỷ đã dài nhiều lắm rồi, hay là cứ để tóc hoàn tục ở cùng chúng tôi, mọi người sống vui vẻ cùng nhau vậy thì tốt biết mấy.
+Bạch Tố Mai bị bắt đã lâu, đầu cạo trọc giờ đã mọc đầy tóc và khá dài.
+Nhưng mà chỉ vào đầu người ta nói trọc này trọc nữa chỉ có Tống Vân Nhi gan lớn bằng trời mới dám mà thôi.
+Trong lòng nàng nghĩ gì nói nấy, không kỵ húy gì cả.
+Bạch Tố Mai thảm não lắc đầu:
+Đa tạ cô, Tống tiểu thư.
+Tôi đã quy y cửa phật, trốn vào không môn, lần này bị liên lụy tuy bị xích ở thân, nhưng chẳng qua là trói buột thịt da bên ngoài, chỉ có trong lòng có phật, thì ở am miếu hay ở nhà ngục cũng vậy mà thôi.
+Đúng a!
+Dương Thu Trì cũng nói thẳng luôn, Nếu đã không có gì phân biệt, thì sau khi đày hết kỳ hạn xong rồi không cần trở về am nữa, nếu như không hiềm, thì cứ ở cùng chỗ của chúng tôi.
+Nếu như cô hiềm chật chội, thì tôi có thể độc cấp cho cô một tiểu miếu ở gần nhà, cô có thể ở đó tu hành a!
+Dương Thu Trì muốn khiến Bạch Tố Mai trở thành bạch hạc Diệu Ngọc ở trong Lũng Thúy Am trong truyện Hồng Lâu Mộng, còn hắn thì tựa như Cổ Bảo Ngọc vậy, có thể đến am pha tra bình hoa mai, hưởng thụ cảm giác siêu phàm thoát tục một lát.
+Không ngờ Bạch Tố Mai vẫn lắc đầu:
+Đa tạ Dương công tử hậu ái, nếu như có thể, tôi vẫn muốn về Tịnh Tuyết am ở Ứng Thiên phủ theo hầu sư phụ.
+Xong nàng dừng một chút, nhẹ giọng tiếp, Nếu như tôi không trở về cạnh sư phụ, một mình tu hành, thì tôi không thể khắc chế được ma chướng trong lòng.
+Dương Thu Trì hơi ngẩn ra, rồi lập tức minh bạch:
+Thì ra cô sợ cô không ngăn được sự dụ hoặc của tên tiểu sắc ma ta đây, ha ha.
+Tuy tự cười mỉa mình là tiểu sắc ma, nhưng Dương Thu Trì vẫn cảm thấy tình cảm của mình đối với Bạch Tố Mai là chân thật, chứ không phải lợi dụng.
+Hắn cho là bản thân mới có một vợ hai thiếp chưa lấy gì làm nhiều, Viên Thế Khải có tới chín bà vợ đó chi!
+Còn Đường Bá Hổ có đến tám bà cộng thêm Thu Hương nữa dường như là chín, còn Vi Tiểu Bảo thì bảy a.
+Đối với Bạch Tố Mai, lúc đầu hắn đã đồng ý cưới nàng làm thiếp, tuy lúc đó ít nhiều chỉ vì trách nhiệm do đã tiếp xúc thịt da với nàng, nhưng hiện giờ nếu Bạch phu nhân đồng ý gả nàng cho hắn làm thiếp, hắn hoàn toàn tình nguyện cưới nàng.
+Nhưng hiện giờ xem ra khả năng này hầu như không có, một là Bạch Tố Mai không có ý đó, hai là Bạch phu nhân không dám đề nghị, ba là hắn chưa dám nạp thiếp thêm, vì chưa bắt được bà già chuyên bắt cóc vợ lẽ của hắn kia, thì hắn không dám mạo hiểm dâng thêm nàng nào cho bà ta nữa.
+Nhất thời không ai nói tiếng nào, xe ngựa tiếp tục lắc lư tiến về phía trước.
+Tính cách của Tống Vân Nhi khoáng đạt, không thể nào chịu không khí trầm muộn thế này, liền nói:
+Chúng ta tìm chuyện gì làm thôi, nếu không buồn chết mất.
+Dương Thu Trì đáp:
+Được a, tìm chuyện gì làm bây giờ?
+Đố tay phạt rượu được không?
+Tống Vân Nhi đưa tay ra.
+Dương Thu Trì giật mình, rất muốn hỏi coi rốt cuộc nàng là trai hay gái, rồi nhìn Bạch Tố Mai nói:
+Bạch cô nương người ta là người xuất gia, chúng ta uống rượu xìn xầm sao mà được?
+Bạch Tố Mai khe khẽ cười:
+Không sao đâu, mọi người cứ chơi đi, tôi nhắm mắt niệm kinh.
+Tống Vân Nhi cười le lưỡi, cũng biết bản thân đã đưa ra đề nghị quá phần, nhưng không nghĩ ra điều gì hay khác nữa.
+Dương Thu Trì dù gì cũng là một tửu quỷ, nghe Tống Vân Nhi đề nghị như thế, con sâu rượu trong bụng liền trỗi dậy, lập tức nuốt nước bọt khan, nói:
+Uống rượu được lắm, nhưng đánh tay không hay, đó là chuyện của tửu quỷ làm, như vầy đi, chúng ta chơi trò tửu lệnh, được không?
+Tống Vân Nhi vỗ tay:
+Quá được rồi!
+Bạch cô nương không uống rượu thì uống trà thay thế vậy, chúng ta ba người uống rượu.
+Đúng rồi, còn có thịt xông khói Mã đại nhân tặng nữa.
+Nói xong quay sang hỏi Bạch phu 5nhân:
+Bá mẫu, người thấy có được không?
+Từ khi Bạch thiên tổng bị chém đầu, Bạch phu nhân chưa từng thấy con gái cười, vừa giờ nhìn thấy nàng khẽ cười mỉm, trong lòng hoan hỉ, mắt không khỏi ướt nhòe.
+Hiện giờ nghe Tống Vân Nhi đề nghị, liền luôn miệng nói được, hi vọng như thế sẽ khiến con gái từ từ vui sống.
+Dương Thu Trì hơi do dự:
+Bạch cô nương là người xuất gia, chúng ta ngồi trước mặt cô ấy uống rượu ăn thịt, chỉ sợ không ổn thỏa mấy a.
+Tống Vân Nhi nghĩ cũng phải, nhưng khó khăn lắm mới nghĩ ra trò vui, nếu như không được chơi e rằng mất hết hứng, nên không khỏi suy hơn tính thiệt đưa mắt nhìn Bạch Tố Mai.
+Bạch phu nhân đã đáp ứng rồi, Bạch Tố Mai tự nhiên không phản đối.
+Nàng chỉ biết dùng trà thay rượu, nên cũng chẳng hề gì, còn về chuyện Dương Thu Trì ăn thịt trước mặt nàng, thì ra khỏi cửa ngồi chung xa thì cũng chẳng nên so đo tính hơn tính thiệt làm gì.
+Hơn nữa, nói cho cùng thì nàng cũng là một tội nhân, làm gì có tự cách phản đối đại lão quan gia ăn thịt uống rượu trước mặt nàng chứ.
+Bạch Tố Mai nghĩ đến đó, khẽ mỉm cười, nói với Dương Thu Trì:
+Dương công tử, mọi người cứ tự tiện đi, không ngại gì cả.
+Thấy Bạch Tố Mai không dị nghị, Tống Vân Nhi mừng rỡ vô cùng.
+Trước khi xuất phát, Mã Độ đã chuẩn bị cho Dương Thu Trì nào là thịt trâu thịt gà, xông khói thịt nguội đủ cả, lại còn cẩn thận dặn dò nha hoàn Nguyệt Thiền mang theo lấy ra dùng dọc đường.
+Nguyệt Thiền vội vã bày ra một bàn vuông nhỏ, dùng mấy cái bát lớn rót rượu và bày thịt ra, nói:
+Thiếu gia, đường này dằn xốc lắm, không thể rót rượu ra trước, người nào thua thì chúng ta rót ra uống ngay có đơợc không?
+Dương Thu Trì gật đầu khen:
+Thật là tiểu nha đầu thông minh!
+Cứ như thế đi.
+Nguyệt Thiền lấy ra một bình bát giác chuyên môn hâm rượu có dáng vẻ rất tinh nhã.
+CÔ bé khẽ hé miệng lò sưởi ra, cho bình hâm rượu vào trong, rồi đậy nắm lại.
+Dương Thu trì hơi hiếu kỳ hỏi:
+Nguyệt Thiền, ngươi đang làm gì vậy?
+Hâm rượu a.
+Nguyệt Thiền đáp.
+Về chuyện hâm rượu thì Dương Thu Trì có biết, thời tam quốc Quan Vũ chẳng phải hâm rượu chém Hoa Hùng hay sao.
+Trong trời đông giá rét thế này, uống chút rượu ấm hẳn là dễ chịu lắm, nên không khỏi buột miệng ngâm:
+Lục Nghĩ tân phôi tửu, hồng nê tiểu hỏa lôVãn lai thiên dục tuyết, năng ẩm nhất bôi vô.
+Tạm dịch:
+Lục Nghĩ rượu còn đục, lò than đất đỏ hồngĐêm về trời đổ tuyết, một bôi uống chi bằng?
+Tống Vân Nhi giả đò khoa trương đưa tay lên mũi hít hít:
+Chua quá đi, răng muốn rụng rồi nè!
+Nguyệt Thiền tán:
+Thơ của thiếu gia làm hay thiệt, hay là chúng ta làm thơ tác phú, ngâm không ra được thì phạt rượu, có được hay không?
+Tống Vân Nhi nhìn Dương Thu Trì cười:
+Ca, huynh coi tiểu nha đầu cơ linh quỷ quái chưa kìa, lúc nào cũng nói giúp cho huynh, nghe huynh ngâm thơ cái là nói thơ huynh làm hay, liền đề nghị làm thơ tác phú, rõ ràng biết ba chúng tôi là phận nữ lưu, ngoại trừ mấy thứ Bách gia tính, Thiên tự văn, và Nữ giới ra, chẳng còn biết thư từ ca phú gì nữa.
+Nguyệt Thiền đỏ mặt, len lén nhìn Dương Thu Trì.
+Tống Vân Nhi cười nói tiếp:
+Tiểu nha đầu, ngươi cho rằng thiếu gia của ngươi có thể làm thơ làm phú ư?
+Bài huynh ấy vừa rồi ngâm chính là bài Vấn Lưu Thập Cửu của Bạch Cư Dị thời nhà Đường đấy.
+Nguyệt Thiền chưa hề đọc sách, không biết điều này, còn cho rằng vừa rồi Dương Thu Trì thấy mình hâm rượu nên sáng tác một bài, thì ra là sao chép lại của người ta, bị Tống Vấn Nhi chọc ghẹo một phen, mặt càng đỏ hơn.
+Dương Thu Trì cười nói:
+Được rồi, Vân nhi, muội còn nói rằng muội không biết ngâm thơ, muội không ngậm được sao lại biết bài thơ vừa rồi?
+Miệng nói vậy nhưng lòng hắn nghĩ, nếu như thực sự phải ngâm thơ tác phú, thỉ bản thân hắn nào biết ất giáp gì, thơ cóc thậm chí còn rặng mãi chẳng ra.
+Bạch Tố Mai phảng phất nhìn được tâm tư của Dương Thu Trì, cười nói:
+Chúng tôi đích xác là không thể ngâm thơ tác phú, Dương công tử cao trúng cử nhân, mấy món tứ thư ngũ kinh, thì từ ca phú chỉ cần là có, xin đừng làm khó chúng tôi làm gì.
+Tống Vân Nhi đương nhiên biết Dương Thu Trì kỳ thật chẳng biết tứ thư ngũ kinh gì ráo, cái chức quan huyện và cử nhân này hầu hết là lấy tiền mà mua, nàng cái gì cũng bội phục Dương Thu Trì, chỉ có cái chuyện đọc sách học hành là chẳng có điểm nào phục cả.
+Còn Tống Vân Nhi từ nhỏ đã đọc qua không ít thi thư, nếu luận về đọc thuộc lòng thi từ của người khác, thì đừng mong gì lừa được nàng.
+Vừa may Dương thu Trì chủ động đề xuất chơi tửu lệnh, cơ hội chơi vui này không thể bỏ qua, nên nàng nói:
+Oẳn tù tì không được, còn chơi tửu lệnh thì văn nhã khá hợp đó nghe.
+Như vầy đi, chúng ta nối thơ chơi tửu lệnh, một người nối liền thi từ của người kia, cần phải vần từ cuối của người đọc trước, cứ thế mà tiếng, trong vòng mười từ thôi, nếu không tiếp được thì phạt rượu, được không nào?
+Được a!
+Dương Thu Trì cười, ngâm thi tác phú thì không được, nhưng mà dựa vào cổ thi đọc mấy câu thì có thể, bất quá thì uống nhiều hơn vài chén, dù sao thì hắn cũng đang muốn uống rượu kia mà.
+Tống Vân Nhi hỏi Bạch phu nhân:
+Bá mẫu, người thấy đề nghị này có được không?
+Bạch phu nhân là người nhà quan, từ nhỏ đã đọc không ít thi thư, nếu chỉ có mấy bài cổ thi thì bà chẳng sợ gì, độ khó ít đi, chỉ cần vui là được, nên gật đầu tán đồn.
+Bạch Tố Mai thấy mẹ đồng ý rồi, nàng đương nhiên không thể cự tuyệt, liền gật gật đầu.
+Tống Vân Nhi lại nói:
+Nếu chỉ phạt rượu không thì không được, chúng ta còn kèm thêm điều kiện khác.
+Dương Thu Trì chờ uống rượu, thế mà Tống Vân Nhi cứ nói mãi không thôi, chỉ còn biết trước hết cầm lấy cái chân gà cắn một miếng, vừa nhai vừa cười bảo:
+Chủ ý quỷ quái của cái cô nha đầu nhà muội thiệt là nhiều, còn thêm cái gì nữa, mau nói ra đi!
+Tống Vân Nhi nói:
+Phạt uống đến năm chục bôi một vòng, trong vòng một vòng người bị phạt rượu ít nhất có quyền yêu cầu người bị phạt rượu nhiều nhất biểu diễn một tiết mục, được không?
+Nguyệt Thiền là người vỗ tay trước:
+Chủ ý này của tiểu thư quá hay!
+Hay cái gì mà hay?
+Do ngươi phụ trách đếm, nếu như nhớ sai phạt ngươi đấy.
+Hi hi hi, ngươi hãy chờ coi thiếu gia của chúng ta biểu diễn đi.
+Tống Vân Nhi cười hỏi, Ai là người mở đầu đây?
+Bạch phu nhân là trưởng bối, đương nhiên do phu nhân khai cuộc.
+Dương Thu Trì nói, Sau đó ai nhiều tuổi hơn sẽ tiếp theo.
+Bạch phu nhân không từ chối, hơi suy nghĩ một lúc, lập tức ngâm:
+Loạn sơn tàn tuyết dạ, cô độc dị hương nhân.
+Trong đêm tuyết tàn giữa núi đồi chập chùng, một người cô độc đất khách quê người.
+Dương Thu Trì ngẫm nghĩ, sau đó vỗ tay khen:
+Thơ hay, Bạch phu nhân ngâm ở đây chính là một câu trong bài Trừ Dạ Hữu Hoài của nhà thơ Thôi Độ đời Đường.
+Đúng rồi, đây chính là nổi lòng hoài cảm phiêu bạc nơi đất khách của Bạch phu nhân, hy vọng vào năm tới, bản thân sẽ có một cuộc sống mới.
+Bạch phu nhân gật đầu:
+Công tử nhớ được nhiều văn thơ sâu rộng, nói thật đúng.
+Tống Vân Nhi lại đem dụng ý của Dương Thu Trì nói huỵt tẹt ra:
+Ca ca của cháu không phải khen bá mẫu thi từ hay đâu, mà muốn nhân cơ hội kéo dài thời gian coi nên tiếp như thế nào đấy, đúng không nào?
+Tống Vân Nhi hỏi xong đắc ý nhìn Dương Thu Trì.
+Thật ra thì Dương Thu Trì đang có ý này, Bạch phu nhân đọc lên hai câu thơ có câu kết là chữ nhân, trong thơ của hắn đáp lại nếu có chữ nhân là được, nhưng nhất thời không thể nghĩ ra, bèn dùng cách giải thích thi từ của Bạch phu nhân để kéo dài thời gian.
+Tống Vân Nhi thúc giục:
+Ca, không được ăn gian, mau tiếp đi nào!
+Trong lúc nói, Dương Thu Trì đã nghĩ ra được một câu, bèn ngâm:
+Thử khứ kinh niên, ứng thị lương thần hảo cảnh hư thiết.
+Tiện túng hữu thiên chủng phong tình, canh dữ hà nhân thuyết.
+Biền biệt năm dài, ôi cảnh đẹp ngày vui nào đâu thiết.
+Dẫu có muôn vạn kẻ chung tình; dễ ngỏ cùng ai biết?
+Đây chính là một cú trong bài Vũ Lâm Linh trức danh của Liễu Vĩnh.
+Tống Vân Nhi chớp chớp mắt:
+Ca, nhiều thi từ như thế, sao huynh cứ chọn có câu đó, có phải là có ngầm ý gì phải không?
+Nàng lúc trước biết Bạch thiên tổng chuẩn bị gả Bạch Tố Mai cho Dương Thu Trì, cũng nhìn thấy Bạch Tố Mai đối với Dương Thu Trì hữu ý, nên cố ý đem hắn ra làm trò châm chọc.
+Dương Thu Trì cũng không hề ngờ đến ý nghĩa của câu vừa rồi, ngầm nhẫm lại, biết ngay Tống Vân Nhi ám chỉ mình và Bạch Tố Mai, bèn ho khan một tiếng, trừng mắt bảo:
+Muội nói bậy cái gì đó?
+Từ cuối cùng của ta là Thuyết.
+Mau tiếp đi cô!
+Ca!
+Bạch tỷ tỷ nhiều tuổi hơn muội, đáng ra đến lượt tỷ ấy, sao huynh lại thiên tâm thế chứ!
+Trong lúc hoảng loạn, Dương Thu Trì không hề chú ý đến vấn đề này, hừ một tiếng quay sang nhìn Bạch Tố Mai.
+Bạch Tố Mai cười nhẹ chẳng để ý, ngâm:
+Nhi kim thức tận sầu tư vị, dục thuyết hoàn hưu.
+Dục thuyết hoàn hưu, khước đạo thiên lương hảo cá thu!
+Hiện giờ chỉ nặng nổi sầu, muốn nói lại thôi, muốn nói lại thôi, để rồi bảo trời thu sao đẹp!
+Dương Thu Trì vỗ tay:
+Hay cho câu muốn nói lại thôi!
+Tống Vân Nhi lại cười:
+Ca, huynh nói Bạch tỷ tỷ muốn nói lại thôi.
+Vậy cái muốn nói của tỷ ấy là cái gì thế nhỉ?
+Muốn nói muội là con tiểu quỷ đầu!
+Mau tiếp đi cô!
+Quá đơn giản, Thu chứ gì?
+Bích vân thiên, hoàng diệp địa, Thu sắc liên ba, ba thượng hàn yên thúy Trời xanh biếc, lá úa vàng, sóng nước mùa thu, gợn lên khói phủ mờ.
+Tô Mạc Già của Phạm Trọng Yêm.
+Nói xong, Tống Vân Nhi lắc lắc đầu:
+Cái tửu lệnh này đơn giản quá, biết bao giờ mới uống được rượu, không vui chút nào.
+Chúng ta mỗi người uống một bôi, rồi nghĩ ra cách khác.
+Dương Thu Trì nhìn thấy rượu mà không uống được, lòng không vui tí nào, giờ nghe cô ả nói mỗi người uống một bôi, không kịp chờ vội bảo Nguyệt Thiền:
+Mau rót rượu!
+Nguyệt Thiền vội vã châm cho Bạch phu nhân, Dương Thu Trì và Tống Vân Nhi mỗi người một chung, ba người uống cạn, Bạch Tố Mai uống một chung trà.
+Dương Thu Trì cầm thịt để trên bàn lên:
+Nào nào nào, mỗi người ăn một chút.
+CHờ mọi người ai cũng lấy hết rồi, hắn tự cầm một cái đùi vịt, vừa gặm vừa nói:
+Vân nhi, muội cứ đưa ra ý kiến đi, càng tìm tửu lệnh khó chừng nào tốt chừng ấy.
+Tống Vân Nhi nói:
+Như vầy đi, tiếp đầu tiếp đuôi, người đọc câu thơ trước dừng lại ở từ nào, thì người sau phải lấy từ cổ thi câu nào bắt đầu bằng từ đó tiếp theo.
+Hơn nữa còn phải liên quan đến mùa đông.
+Bạch Tố Mai gật đầu:
+Như vậy là có độ khó đây, ta sợ không kham đâu, chờ chịu phạt thôi.
+Tống Vân Nhi nói:
+Bạch tỷ tỷ không cần khách khí, tỷ thâm tàng bất lộ, muội mới bình rỗng kêu to đây này.
+Xong quay sang Bạch phu nhân nói, bá mẫu, người đọc trước đi.
+Bạch phu nhân cũng không khiêm nhường, ngâm ngay:
+Sầu khiếp niên niên liễu, thương tâm xử xử mai.
+Đây là bài Đông Nhật Tạp Hứng của Trương Mạt thời Tống.
+Mai?
+Mai?
+Dương Thu Trì nhíu mày, trong đầu hắn thi từ thời cổ vốn không nhiều, nhất thời không nghĩ ra cái gì, nhận thua ngay, định cầm chung rượu lên, Tống Vân Nhi chợt ngăn lại, Chờ đó, ca, tha cho huynh một lần, cho phép huynh dùng hài âm tức âm đọc gần giống hoặc giống nhau.
+A?
+Còn có vụ đó à, hắn ngẫm nghĩ một chút, chợt nhớ một câu cổ thi liên quan đến mai, cười nói:
+Ai kêu muội nhượng?
+Bèn đằng hắn một tiếng, lắc lư đầu ngâm:
+Mai tu tốn tuyết tam phân bạch, tuyết khước thâu mai nhất đoạn hương.
+Mai thua tuyết ở vài phân trắng, tuyết lại nhường mai chỗ thoáng hươngHi hi!
+Tống Vân Nhi lại cười:
+Ca, huynh nếu khen chị dâu và Bạch tỷ tỷ, không cần nói trực tiếp như vậy đâu?
+Dương Thu Trì ngẩn người ra:
+Ta có gì đâu?
+Câu thơ vừa rồi của huynh rõ ràng là khen Bạch tỷ tỷ và Tiểu Tuyết tẩu tẩu đó a.
+Ta khen hai người thế nào đâu?
+Mai thẹn vì trắng thua tuyết ba phần, ý nói luận tướng mạo thì Bạch tỷ tỷ không có trắng như Tiểu Tuyết tẩu tẩu, còn tuyết thua mai nhất đoạn hương là nói luận về tài học thì chị dâu không sánh đơợc với Bạch tỷ tỷ.
+Huynh vừa rồi khen họ một người là đẹp ở ngoài, một người tốt ở trong, đúng không nào?
+Tống Vân Nhi nháy nháy mắt.
+Nói bây nói bạ!
+Kéo động quờ tây!
+Dương Thu Trì cười bảo, nhưng lòng nghĩ, còn nghi ngờ gì nữa, cô ả Tống Vân Nhi này thiệt là biết bài vẽ, và lại còn bài vẽ ra ngô ra khoai nữa chứ.
+Tống Vân Nhi lại nói:
+Kỳ thật, tiểu Tuyết tỷ tỷ nếu như trên mặt không có khối hắc ban, thì có thể gọi là tuyệt sắc mỹ nhân, không dám nói là hơn Bạch tỷ tỷ, chí ít cũng hơn muộiNói đến đây, nụ cười trên mặt Tống Vân Nhi chợt biến mất, dường như đang lắng nghe gì đó.
+Sao vậy, Vân nhi?
+Dương Thu Trì hỏi.
+Tống Vân Nhi đáp:
+Có tiếng khóc, dường như có vài người đang khóc.
+Nghe nói thế, mọi người đều dỏng tai lên nghe, Không có a!
+Dương Thu Trì nghi hoặc nhìn Tống Vân Nhi, chốc sau, xe ngựa chạy lên một đoạn nữa, quả nhiên trong tiếng gió ẩn ước có tiếng khóc:
+Con tôi ơi!
+Con tỉnh lại đi a!
+Hu hu Tiếng khóc rất thế thảm.
+Dương Thu Trì vén rèm phía trước lên, thò đầu ra nhìn.
+Gió lạnh thấu xương, thổi đến nổi hắn suýt không mở mắt nổi, nhưng vẫn có thể nhìn thấy mông lung phía bờ ruộng xa xa có một vài người đang quây quần với nhau.
+Tống Vân Nhi cũng đưa đầu ra hỏi:
+Ca, nhìn thấy cái gì?
+Có chuyện gì thế?
+Không rõ lắm, nhìn không rõ.
+Xe ngựa càng lúc càng gần, từ từ thấy rõ trên bờ ruộng phía xa xa có bảy tám người già trẻ đều đủ cả, và cùng khóc lóc.
+Dương Thu Trì cho xe chạy nhanh tới, lúc này nhóm người đó đã bị mui xe che khuất.
+Dương Thu Trì rụt cổ lại, tiểu nha hoàn Nguyệt Thiền hiếu kỳ hỏi:
+Thiếu gia, nhìn thấy cái gì?
+Dương Thu Trì lắc đầu:
+Nhìn không rõ, ở chỗ ruộng xa xa kia, có nhiều người lắm, xe lại chạy quá nhanh.
+Tống Vân Nhi nói:
+Muội nhìn rõ đuợc, trong nhóm người đó có một lão hán đang ngồi trên đám cỏ ôm một hài tử khoảng bảy tám tuổi gì đó, dường như chết rồi, không động đậy gì, đầu và tay đều gục xuống.
+Dương Thu Trì a một tiếng, nhíu mày lại ngẫm nghĩ một hồi, đột nhiên kêu lên:
+Dừng xe!
+Mau dừng xe!
+Chuyện gì nữa?
+Tống Vân Nhi hỏi.
+Nha hoàn Nguyệt Thiền nghe tiếng đã vén rèm kêu người đánh xe dừng lại.
+Dương Thu Trì nói:
+Nhóm người đó đều là người làm ruộng, không giống như đi an táng tiểu hài.
+Thôn xóm ở dưới ngọn núi xa xa kia, thế mà bọn họ chạy ra đây khóc, cho thấy đứa bé kia có thể là phát sinh chuyện ngoài ý muốn, nói không chừng là bị người mưu sát.
+Chúng ta đi coi xem sao!
+Tống Vân Nhi nghe có mưu sát, có cơ hội sính anh hùng đến nơi, liền sáng rực hai mắt, là người đầu tiến vén rèm phốc xuống xe.
+Dương Thu Trì nói với hai mẹ con Bạch phu nhân:
+Bạch phu nhân, Bạch cô nương, hai người ở lại trên xe chờ, chúng tôi đi xem coi có chuyện gì xảy ra.
+Sau đó xuống xe theo Tống Vân Nhi.
+Xe ngựa của Dương Thu Trì vừa dừng lại, Nam Cung Hùng và hai hộ vệ dẫn đường phía trước cưỡi ngựa quay lại hỏi:
+Đại nhân, phát sinh chuyện gì vậy?
+Dương Thu Trì vừa đi về đám người kia, vừa nói:
+Ở bên kia có thể đã phát sinh án mạng, ta đi xem coi sao.
+Nam Cung Hùng phi thân xuống ngựa, thưa:
+Đại nhân cẩn thận, tôi phái người đi trước cảnh giới.
+Nói xong, phất tay ra hiệu cho các cẩm y vệ hộ vệ, mấy người đó đã nghe lời họ nói, tay án lên cán đao chạy trước tới đám người ở bờ ruộng.
+Dương Thu Trì đi gần đến đám người đó, thì các thôn dân đã quỳ xuống đón tiếp đại lạo gia, trong đó có một lão hán quả nhiên đang ôm một đứa bé sóng xoài trong lòng.
+Đứa bé mặc áo ngắn màu xanh, trán, miệng, cổ và ngực đều có máu tươi.
+Mấy cẩm y vệ đưa tay án lên đao đứng xung quanh nhìn mấy người này, ngoài ra còn có vài hộ vệ xoay lưng ra nhìn xung quanh cảnh giới, quan sát mọi cử động của bất kỳ người nào đi qua, nhưng cảm y vệ khác tản ra xung quanh đội xe, bảo hộ cho mấy chiếc xe và hành lý.
+Kim sư gia và Long sư gia cũng dừng ngựa bước đến.
+Dương Thu Trì nhìn đứa bé trong tay lão hán, hỏi:
+Lão bá, phát sinh chuyện gì vậy?
+Hồi bẩm lão gia, con trai tôi không biết bị ai đánh chết rồi, hu hu hu Lão hán ôm cậu bé mềm nhũn trong lòng mà khóc, mấy nam nữ lão ấu chung quanh cũng khóc theo.
+Dương Thu Trì không hề mặc quan phục, nhưng những người này biết hắn là quan, rõ ràng là các cẩm y vệ đến đây trước cho biết.
+Dương Thu Trì bảo:
+Ngươi đặt đứa bé xuống để ta tra xét một chút coi sao.
 Dạ.
 Lão hán đặt thi thể của đứa bé xuống đất.
 Dương Thu Trì cúi người sờ động mạch cảnh của đứa bé, đã thấy không còn mạch đập, hỏi:
@@ -34,656 +602,3 @@ Tống Vân Nhi cũng làm theo, hỏi:
 Ca, phát hiện được cái gì?
 Dương Thu Trì chỉ vào mặt lộ, trên đó có một loạt dấu chân ngựa lăng loạn, còn có vài dấu bánh xe mờ mờ.
 Tống Vân Nhi nhìn đi nhìn lại dấu móng ngựa này, hơi khó hiểu hỏi:
-Là sao?
-Những dấu móng ngựa này trên quan đạo nơi nào chẳng có a.
-Khi tra án rất cần từ những dấu vết có vẻ bình thường phát hiện ra điều bất bình thường, thế mới phát hiện ra dấu vết mà tội phạm lưu lại.
-Dương Thu Trì đáp.
-Ca, huynh phát hiện dấu vết của tội phạm rồi sao?
-Tống Vân Nhi hưng phấn hỏi, Đứa bé này là do ai giết vậy?
-Bị xe đụng chết!
-A?
-Tống Vân Nhi hô lên cả kinh, quay đầu lại nhìn vị trí thi thể của đứa bé, lắc đầu:
-Không đúng a, thi thể của đứa bé cách quan đạo xa như vậy, xe ngựa dù có chạy nhanh cách mấy cũng không thể nào hất đứa bé văng xa như vậy a.
-Hất không tới nhưng có thể ẵm tới mà.
-A?
-Tống Vân Nhi lại ạ lên, sau đó hiểu ngay:
-Ca, ý huynh muốn nói, sau khi xe ngựa đụng đứa bé đó chết, để che giấu tội phạm đã đem thi thể giấu đi phải không?
-Thông minh!
-Dương Thu Trì khen, Chính là như thế.
-Nói xong, chỉ vào dấu chân ngựa, Muội chú ý nhìn này, những dấu chân ngựa này từ thưa thớt trở nên dày, sau đó tụ tập lại một đám rất loạn, đấy chính là sau khi xe ngựa húc chết hài tử, cho xe dừng lại mới lưu những dấu ấn này.
-Và số ngựa không phải chỉ có một.
-Dương Thu Trì nhìn Tống Vân Nhi mở to mắt quan sát dấu chân ngựa trên mặt đất, ánh mắt còn lộ vẻ mê mang, bèn bảo:
-Đương nhiên, chỉ dựa vào dấu chân ngựa không không thể phán đoán đứa bé bị xe đụng chết, cần phải căn cứ vào vết thương.
-Đi, đi kiểm tra lần nữa thi thể của hài tử.
-Dương Thu Trì cho Nam Cung Hùng khuân khúc gỗ ngán bên đường theo, sau đó mọi người cùng quay lại cạnh thi thể của cậu bé.
-Dương Thu Trì chỉ vào chỗ ngực lõm vào của đứa bé:
-Đây là do vó ngựa đạp mà lưu lại.
-Chú ý đến chưa, vết thương trên ngựa có hình bầu dục, nửa cung tròn, rất giống với hình móng ngựa.
-Lực đạp của vó ngựa rất lớn, gây cho đứa bé bị gãy xương ngực, hình thành vết thương ép phổi, sụn ngực, xuất huyết, tắt thở, thậm chí còn gây tổn thương lên tim hoặc động mạch chủ điều này phải mổ kiểm thi mới chứng minh.
-Như vậy nó xem ra là nguyên nhân chủ yếu để tạo thành tử vong cho hài tử.
-Dương Thu Trì chỉ vào vết thương trên trán của đứa bé:
-Vết thương này bên trong bầy nhầy, vết đứt không chỉnh tề, vết thương bất quy tắt, đó là dạng thương tích do dằn xé, xem ra có thể là do chân ngựa trực tiếp vào vào tạo thành.
-Xương sọ đã vỡ sụm vào trong, dùng tay có thể sờ được, cho thấy tốc độ của xe ngựa rất nhanh, lực va chạm rất mạnh.
-Chấn thương não này có thể đã gây cơn choáng do ngoại thương đối với đứa bé, càng làm tăng nhanh sự tử vong cho nó.
-Dương Thu Trì nói một hơi một tràng các thuật ngữ chuyên nghiệp tuy không mấy lạ ở thời hiện đại, nhưng Tống Vân Nhi và Kim sư gia nghe xong mà như ở trên mây vậy.
-Nhưng dù sao, bọn họ không phải lần đầu tiên nghe Dương Thu Trì thao thao bất tuyệt giảng giải lượng từ cổ quái xa xôi ở đâu đó vậy, vốn đã từ tù quen đi, nên lần này nghe xong cũng đoán ra được đại khái ý nghĩa của chúng là gì.
-Tiếp theo đó, Dương Thu Trì bày quần áo của đứa bé chỉnh tề trên mặt đất, chỉ vào dấu vết ở phía trên:
-Đây là dấu bánh xe ngựa cán qua lưu lại.
-Hai tay hắn nâng chân phải bị gãy xương của đứa bé lên:
-Mọi người hãy nhìn vết thương trên chân, đó là thứ có thể nói rõ vấn đề nhất.
-Từ dấu vết và phương hướng mà xét, thì tiểu hài này lúc đó nhất định là bị ngựa đụng ngã, sau đó bị vó ngựa đạp lên, sau đó bị bánh xe cán qua chân, trên chân hình thành vết thương bị tuột da.
-Thứ vết thương này là do bánh xe chuyển động mà tạo ra, khiến cho da thịt cùng các tổ chức bên dưới bị bóc tách ra, hình thành một vết thương đặc thù có một mảng da rộng bị phù thủng ứ huyết.
-Dương Thu Trì lại chỉ vào háng của đứa bé, nơi có một đám vết thương nhỏ như bí xé rách:
-Thứ thương tích này gọi là thương tích mở rộng, do bánh xa chuyển động quá co kéo, khiến cho biểu bì bị rách lộ ra lớp da trong, hình thành một đám rách như mã vạch, phương hướng nhất trí với hướng rách của da.
-Dương Thu Trì tiếp:
-Hai loại vết thương này đều là loại điển hình do bánh xe ép cán lên tạo thành, nhưng loại khác không thể nào tạo thành hai loại vết thương như vậy được.
-Vậy có lẽ nào người khác thúc xe cán đứa bé không?
-Hỏi hay lắm, Dương Thu trì khen, Nhưng từ tình hình vết thương xét ra không phù hợp.
-Dương Thu Trì chỉ vào vết thương ở trên đùi của đứa bé, Thứ vết thương này có độ rộng khá lớn, bánh xe của xe cút kít thường không rộng như vậy, vì một là không cần, hai là để đẩy cần rất nhiều sức lực.
-Còn có một điểm nữa có thể chứng minh là đứa bé bị xe ngựa đụng, Dương Thu Trì đem quần áo của đứa bé lật lại, phía sau dính đầy cát nhỏ, Mọi người xem, nơi phát hiện ra thi thể của tiểu hài chỉ toàn là cỏ và đất bùn, làm gì có loại đất cát như thế này?
-Xem ra sau khi tiểu hài bị húc ngã, sau đó bị vó ngựa và bánh xe đè áp lên mặt lộ mà dính phải.
-Dương Thu Trì lại lật thi thể của hài tử lên, chỉ vào sau lưng, đùi và cùi chỏ:
-Những dấu cào xước này nhất định là xe ngựa kéo lê thân thể nó mà tạo thành, có thể ấn chứng những phán đoán vừa rồi của ta.
-Tống Vân Nhi lúc này mới khâm phục nhìn Dương Thu Trì:
-Ca, huynh thiệt là lợi hại nghe!
-Xong chuyển thân nhìn quan đạo trống không, nói:
-Không biết chiếc xe ngựa đáng chết nào sau khi húc chết hài tử rồi bỏ đi, như vậy làm sao tìm được tội phạm đây?
-Bất kỳ hành vi phạm tội nào đều để lại dấu vết!
-Dương Thu Trì tự tin nói, Chỉ cần cẩn thận là có thể phát hiện được ngay.
-Tống Vân Nhi vui mừng hỏi dồn:
-Ca, huynh đã phát hiện ra tung tích tội phạm rồi, đúng không?
-Rồi nàng cắn răng, Đụng chết hài tử không quản, còn đem giấu thi thể đi, thật là không có nhân tính, bắt được tên tội phạm đáng chết này, cần phải xử trí hắn cho thật nặng!
-Ca, huynh mau nói coi tên tội phạm này là dạng người nào?
-Tội phạm thì ta không biết, nhưng xe ngựa thì ta biết.
-Dương công tử, công tử không ở tại hiện trường, làm sao biết được xe ngựa của tội phạm ra sao?
-Từ sau lưng DƯơng Thu Trì chợt vang lên giọng nói thỏ thẻ của một cô gái, quay đầu lại nhìn thì ra là Bạch Tố Mai trong bộ đồ trắng, bên cạnh còn có Bạch phu nhân.
-Thì ra, hai mẹ con Bạch tố mai chờ một lúc không thấy Dương Thu Trì và mọi người quay lại, nghe mọi người nói vừa rồi có án mạng, Bạch Tố Mai tuy sợ, nhưng lòng dù sao cũng lo cho Dương Thu Trì, nên cùng mẹ nàng xuống xem Dương Thu Trì phá án ra sao.
-Dương Thu Trì nhìn Bạch Tố Mai, khe khẽ cười:
-Như ta vừa nói, mọi tội phạm đều để lại dấu vết!
-Hắn rút chiếc khăn trắng từ trong người, mở ra, cầm một sợi lông màu vàng:
-Tóc trên đầu của đứa bé có màu đen, vì thế, sợi lông hay tóc này không thể của nó, xem ra là từ chân của con ngựa đụng vào đầu nó lưu lại.
-Màu vàng sao?
-Xe ngựa có ngựa là Hoàng phiếu mã sao?
-Tống Vân Nhi lập tức phản ứng ngay.
-Dương Thu Trì gật đầu:
-Chuẩn xác mà nói, con ngựa đầu tiên là hoàng phiếu mã ngựa lông vàng đốm trắng.
-Còn có thớt ngựa sau sao?
-Bạch Tố Mai cũng hiếu kỳ hỏi.
-Đúng!
-Dương Thu Trì nói, Kỳ thật chú ý quan sát cách ngựa chạy thì biết ngay.
-Tốc độ của xe ngựa rất nhanh, do đó thớt ngựa đầu sau khi đụng chân vào trán của đứa bé, thì lúc ấy đứa bé nhất định đáng đứng ngửa mặt, và chân sau của con ngựa thứ nhất không thể nào dập trực tiếp lên ngực hài tử được, phải đợi khi hài tử bị té ngã xuống đất, thớt ngựa phía sau mới có khả năng đạp lên ngực nó.
-Như vậy có nghĩa là xe ngựa có đến hai con ngựa kéo!
-Kim sư gia lúc này cùng tham gia trò đoán đố.
-Không, xem ra là đến bốn con!
-Dương Thu Trì nói, Nếu như dùng hai thớt ngựa kéo xe, vì để đồng thời dùng lực kéo và chống lại cái lạnh, hai ngựa sẽ chạy song song, chứ không thể một tiền một hậu, và con ngựa còn lại sẽ không đạp lên ngực đứa bé như thế.
-Kim sư gia gật đầu tán đồng.
-Dương Thu Trì đã giảng giải cho họ đại khái mọi ngóc ngách, dù vẫn con chưa rõ lắm.
-Hắn tiếp tục suy đoán:
-Dùng bốn thớt ngựa kéo xe, thì đó sẽ là xe loại gì?
-Hiện giờ không phải ở Hán triều, dùng xe ngựa và số thớt ngựa để biểu minh thân phận nữa rồi, vì người giàu sang cũng có thể chọn ngồi kiệu hoặc cưỡi ngựa, còn xe ngựa hầu hết đều là xe hai bánh do một thớt ngựa kéo.
-Dù sao thì chỉ kéo một hai người, sức của một con ngựa cũng đủ rồi, dùng hai thớt ngựa kéo đã ít, dùng bốn con xem ra càng hiếm hơn, thường sử dụng để kéo hàng hóa hay vật thể thật nặng mà thôi.
-Do đó, Kim sư gia cất tiếng nói trước:
-là xe kéo hàng!
-Đúng!
-Dương Thu Trì nói, Hơn nữa còn chất đầy hàng hóa, theo như ta đoán, thì xe đó kéo vật liệu bằng gỗ.
-Tống Vân Nhi hỏi:
-Ca, vì sao ca ca lại đoán ra điều này?
-Không phải đoán, Dương Thu Trì nói, Vừa rồi ta không nói hay sao, bất kỳ tội phạm nào cũng để lại dấu vết.
-Dương Thu Trì chuyển thân chỉ khúc gỗ vẫn còn được Nam Cung Hùng giữ:
-Đó chính là thứ tìm thấy trên quan đạo có dấu chân ngựa, xem ra là vật bị rơi ra từ xe, thời gian không lâu lắm.
-Bạch Tố Mai lần này cũng hiếu kỳ hỏi:
-Vì sao lại thế?
-Bạch cô nương, cô hãy nghĩ coi, ngày đông tháng giá thế này, một khúc gỗ to như thế đủ sưởi ấm cả mấy ngày.
-Nếu như bị rơi ra đã lâu, thì lão bá tánh thấy được đã sớm mạng về nhà.
-CÔ xuất thân là nhà quan, không biết cái khổ của người nghèo đâu.
-Bạch Tố Mai đỏ mặt, lập tức cúi đầu:
-Tôi còn dám noi gì đến nhà quan này nọ.
-Tống Vân Nhi thấy bạch cô nương thương cảm, vội vã xóa thoại đề:
-Ca, ý tứ của huynh là khúc gỗ này có thể là từ trên xe ngựa rung rinh mà bị rớt xuống?
-Do đó trên xe ngựa nhất định chất đầy thứ gỗ này.
-Thông minh!
-DƯơng Thu Trì khen, Do đó, xe ngựa đụng chết đứa bé nhất định là một xe bốn bánh do bốn ngựa kéo, trên có chất đầy hàng hóa làm từ gỗ!
-Ơ?
-Tống Vân Nhi lại hỏi:
-Vì sao huynh lại biết là có bốn bánh xe?
-Trên chân của hài tử chỉ có dấu một bánh xe thôi mà.
-Chỉ có một bánh xe cán lên hài tử thôi, nhưng muội không chú ý đến dấu vết bánh xe vừa rồi hay sao?
-Bên cạnh vết lún sâu còn có hai hàng bánh xe có độ sâu nhạt hơn một chút, cho thấy đây là bốn bánh xe.
-Hơn nữa, xe ngựa kéo hàng, mà hàng cần tới bốn con ngựa, cho thấy hàng hóa rất nặng, do đó độ dài khá lớn, hai bánh xe sẽ không ổn định đâu, phải bốn bánh mới có thể vững vàng.
-Hiểu rõ rồi!
-Tống Vân Nhi lập tức hiểu ra, ngay sau đó nói:
-Xe ngựa này không biết đã rời khỏi đây bao lâu, chúng ta còn có thể đuổi kịp hay không?
-Rời khỏi đây không lâu đâu, nhất định không quá nửa canh giờ, dù gì cũng là xe chở vật nặng, nhất định sẽ đuổi kịp.
-Vừa rồi Dương Thu Trì lắc lư hàm dưới của thi thể đứa bé, nên mới nói như vậy.
-Đó chính là bộ vị xuất hiệ thi cương sớm nhất, hắn cảm thấy dưới xương hạ cằm hơi gường gượng, cho thấy thi cương mới vừa hình thành.
-Sau khi kiểm tra thấy thi ban còn chưa xuất hiện, hắn đoán thời gian tử vong đại khái khoảng một canh giờ.
-Chúng ta mau đuổi theo!
-Tống Vân Nhi bảo.
-Đừng có gấp!
-Dương Thu Trì khoát tay:
-Chiếc xe này chạy không được đâu, nhất định sẽ đến lò than ở gần đây.
-Tống Vân Nhi cùng mọi người ngẩn ra, chẳng hiểu làm sao hắn lại khẳng định như vậy?
-Dương Thu Trì nhìn ra sự nghi hoặc của họ, giải thích:
-Rất đơn giản, từ khúc gỗ rơi ra kia mà xét, thì đó là thứ gỗ dầu, và bị chặt ngắn như thế, lại bị búa chặt, cho thấy nó có thể là được dùng để đốt lửa.
-Xe ngựa mà dùng gỗ này để đốt thì sẽ chẳng chạy đi đâu xa được, mà sẽ đến gần đâu đây để thay bằng than.
-Dương Thu Trì phán đoán như vậy là căn cứ vào thời Minh chưa hề chặt cây bừa bày, thứ gỗ củi như thế này đâu đâu cũng có, không phải hiếm hoi như thời hiện đại.
-Do đó việc dùng lò sưởi bằng củi là khá phổ biến, và đi đâu cũng có thể tìm được than củi, không phải mất công vận chuyển chất đốt gì.
-Dương Thu Trì nói tiếp:
-Các lão bá tánh thường không có tiền, sẽ không đi mua gỗ củi về sưởi, mà tự lên núi đốn củi về đốt than.
-Còn các đại hộ sẽ không trực tiếp mua củi về đốt, vì như thế sẽ gây nhiều khói, nên đều mua gỗ về thiêu ra than đốt để dành đó.
-Vì thế, gỗ trên chiếc xe lớn này không thể dùng để trực tiếp đốt thành lửa sưởi ấm, mà làTống Vân Nhi sáng rực mắt lên, mừng rỡ tiếp lời:
-Ma là di chuyển đến lò than nào gần đây để đốt thành than trước!
-Thông minh!
-Dương Thu Trì cười nói, xong chuyển đầu sang hỏi lão hán cùng mọi người:
-Đi theo quan đạo này có lò đốt than nào không?
-Lão hán đáp:
-Có, tới trước hai chục dặm có một lò đốt than lớn, thường mang than đi bán ở Thái Bình phủ, thậm chí người ở Trì châu cũng đến đấy mua than.
-Trì châu?
-Dương Thu Trì nhớ lại cha của Tống Tình trước đây từng ở Trì châu làm quan, chẳng biết Tống Tình hiện giờ thế nào rồi, Dương Thu Trì nhớ tới nàng, lòng nhói đau, nhưng vẫn cố gượng hỏi:
-Từ đây đến Trì châu còn bao xa?
-Nếu không đi gấp thì hai ngày nữa tới.
-Gần đây còn lò đốt than nào khác không?
-Hết rồi, Lão hán đáp.
-Lò than đó gọi là gì?
-Gọi là Đông môn độ.
-Dương Thu Trì nói:
-Các ngươi phái hai người theo chúng ta tới lò than đó, bắt người đánh xe.
-Lão hán gật đầu:
-Vâng!
-Đa tạ lão gia làm chủ cho chúng tôi!
-Lão hán dẫn theo một thanh niên khác chính là cháu của lão đi theo.
-Dương Thu Trì bảo Nam Cung Hùng dẫn ra hai thớt mã giao cho lão hán và thanh niên, cho ba người cùng đi nhanh đến trước đi bắt người đánh xe, còn bản thân thì cùng xa đội từ từ đi sau.
-Ba người Nam Cung Hùng dùng khoái mã cáo từ phi nhanh, Dương Thu Trì trở về xe ngựa tiếp tục hành trình.
-Chứng kiến cái chết thương tâm của cậu bé, mấy người không còn lòng nào tiếp tục đấu thơ nữa, nhưng rượu thì vẫn phải uống, do đó họ vừa uống vừa bàn chuyện vừa xảy ra.
-Bạch Tố Mai thở dài nhưng lại khen ngợi Dương Thu Trì:
-Thứ án mạng chẳng có tí đầu mối gì mà Dương công tử chỉ mất có một lúc đã tra ra chân hung, dùng từ phá án như thần ra hình dung thật chẳng quá chút nào.
-Không chờ Dương Thu Trì khiêm tốn, Tống Vân Nhi đã tranh nói trước:
-Cái đó đương nhiên, án này nhỏ như con thỏ, ca ca của muội tùy tiện trỏ ngón tay ra là phá được án, những liên hoàn án như Bạch Cốt án hay là tích huyết nhận thân lúc về quê kia mới là án khó chân chánh á.
-Muội và cha muội đều như trong mây mù, thế mà ca ca đã nắm rõ đầu dây mối nhợ hết trơn rồi, thật là lợi hại quá đi đó mà!
-Dương Thu Trì hơi bối rối:
-Ta mà lợi hại?
-Ta thấy muội mới lợi hại đó chớ!
-Muội lợi hại thế nào?
-Tống Vân Nhi hiếu kỳ hỏi.
-Vừa rồi chúng ta ngồi trên xe ngựa chạy, cách xa như thế, ta thậm chỉ chỉ thấy một đám người, thế mà muội đã nhìn rõ trong đó có một lão hán ẵm đứa bé, tư thế của đứa bé gì đều mô tả rõ ra, còn không lợi hại hay sao?
-Cái đó mà tính làm gì.
-Tống Vân Nhi có chút đắc ý, Người xưa tẩu mã quan bia, mục thị quần dương mới gọi là lợi hại a.
-Mục thị quần dương, ta thấy muội không kém gì khoản ấy rồi.
-Cái gọi là tẩu mã quan bia là điển cố thời chiến quốc, kể về mưu sĩ Tô Tần có ánh mắt nhìn rất nhanh, có một lần ông ta cưỡi khoái mã đi ngang qua bia đá, chỉ cần quét mắt một cái đã thu đọc được hết chữ lớn chữ nhỏ trên đó.
-Còn mục thị quần dương ý nói chỉ cần nhìn qua là biết trong đàn có mấy con dê rồi.
-Tống Vân Nhi cười hì hì:
-Nói thật, nếu như số con không nhiều, muội có thể nhìn rõ hết, năm xưa sư phụ của muội vì nhìn trúng bản lĩnh này của muội mới thu nhận làm đồ đệ đó nha.
-Ạ?
-Dương Thu Trì trước giờ không nghe nàng đề cập đến sư phụ, chuyện này thực ra liên quan đến chuyện riêng tư của người ta, Dương Thu Trì không tiện hỏi.
-Hiện giờ nàng đã chủ động nói, thì hắn liền tiện thể hỏi theo:
-Vân nhi, sư phụ của muội sao lại thu muội làm đồ đệ vậy?
-Có thể kể chút được không.
-Tống Vân Nhi cười:
-Được chứ, khi muội được năm tuổi còn nhớ là sắp sửa qua năm mới, có một ngày đó mẹ muội và bà vú dẫn muội đi xem hội miếu, muội muốn mua kẹo ăn.
-Trong lúc chờ người bán kẹo, muội thấy có một người đến hàng bánh bao mua bánh bao, rút một sấp đồng tiền ra nhìn, rồi ném thẳng vào trong rổ đựng tiền của hàng bánh bao, nói là đã đưa mười văn tiền, nhưng người bán bánh bao sau khi đến rổ tiền lại thì nói người kia chỉ đưa có chín văn.
-Hai người cãi qua cãi lại, súyt dẫn đến đánh nhau, kỳ thật người mua bánh bao lúc quẳng tiền vào trong rổ đó muội đã nhìn thấy rất rõ, y chỉ quẳng vào đó chín văn, y đã lừa người bán.
-Dương Thu Trì hiếu kỳ hỏi:
-Vân nhi, muội mới có năm tuổi mà biết đếm rồi sao?
-Đương nhiên!
-Tống Vân Nhi cảm thấy phẫn nộ đối với sự đánh giá thấp của Dương thu Trì đối với mình, Muội ba tuổi đã học vỡ lòng, cha muội nói, rất tiếc muội là con gái, nếu không sau này có thể đổ trạng nguyên, khiến cho Tống gia quang tông diệu tổ đó nha!
-Bội phục bội phục!
-Dương Thu Trì ôm quyền, Ta năm tuổi còn đái dầm đây này.
-Bạch Tố Mai cùng mọi người đều cười.
-Tống Vân Nhi nói:
-Nhưng mà ca ca hiện giờ lợi hại quá đi à.
-Dừng!
-Dương Thu Trì khoát tay, Đừng có khen ta quá, muội cứ kể tiếp vụ lúc muội năm tuổi giữa đường gặp chuyện bất bình giải quyết ra sao đi!
-Tống Vân Nhi kể tiếp:
-Người bán bánh bao nghe muội nói giúp đương nhiên cao hứng, nhưng người mua rất dữ, thấy chúng muội có ba nữ nhân chân yếu tay mềm, khệnh khạng định đánh, ai ngờ khi tay y giờ lên cao chưa kịp đánh xuống, thì đột nhiên dùng tay kia chộp lấy tay đó lan lộn rên la.
-Sau này muội mới biết sư phụ phóng ám khi đánh trúng huyệt đạo của y.
-Sư phụ còn nói, tay của tên kia bị người phế rồi.
-Ai bảo hắn khi phụ nữ nhân làm chi, đánh chết!
-Dương thu Trì cả kinh, sư phụ của Tống Vân Nhi không động thì thôi, động thủ là đã đánh tàn phế một tay của người ta, xuất thủ độc ác vậy hèn gì Tống Vân Nhi ra tay cũng ác không kém, chỉ sợ phần lớn là chịu ảnh hưởng từ vị sư phụ này.
-Tống Vân Nhi nói tiếp:
-Người mua bánh bao đó chạy rồi, sư phụ của muội đến bên cạnh muội, không nói gì, lấy từ trong túi ra một vốc đồng tiền quẳng lên trên không, sau đó tóm gọn hết rồi hỏi muội có mấy đồng.
-Muội chỉ cần liếc nhìn một cái đã nhìn rõ, nên hồi đáp chính xác.
-Sư phụ tức thời đề xuất với mẹ muội muốn thu muội làm đồ đệ.
-Mẹ muội hơi do dự, một là không biết sư phụ của muội, hai là bà không hy vọng một nữ hài tử như muội là múa thương đập gậy, nên chần chờ nói cần phải hỏi ý kiến của cha muội.
-Sư phụ không nói gì, lập tức cùng trở về nhà gặp cha muội.
-Lúc đó cha muội còn là một chủ bộ, nghe ý của sư phụ rồi người tuy không phản đối muội học võ, nhưng cũng không có ý đó, lại không hiểu rõ sư phụ nên chối từ.
-Sư phụ không bực mình, cùng không ép, chỉ mỗi ngày đều chạy đến nha môn tìm cha muội, trời gầm cũng không động, mỗi ngày đều hỏi có một câu, có đồng ý cho muội làm đồ đệ của người hay không, không đồng ý thì đi ngay, ngày hôm sau lại trở lại.
-cuối cùng cha muội bị bức không còn cách nào khác, bèn đưa ra một nan đề muốn xem xét bản lĩnh của sư phụ.
-Thế là sư phụ ngay trước mặt chúng tôi thể hiện một ngón công phu, người lấy một vốc đồng tiền quẳng lên không trung, sau đó phóng lên đưa ngón tay búng mớ đồng tiền đó thành từng viên đạn bắn đính vào cột, chẳng có đồng nào rơi xuống đất.
-Cha muội vô cùng cả kinh, thấy sư phụ của muội tài ba như vậy, biết là giang hồ dị nhân, nếu như người ta đã nhìn trúng con gái của người rồi muốn thu làm đồ đệ, thì không đạt được mục đích không chịu thôi.
-Hiện giờ sau mấy lần khẩn cầu mà không đạt được mục đích, nói không chừng sẽ trở mạt, len lén bắt muội đi, đến lúc đó thì phiền phức rồi.
-Trong lúc không còn cách nào khác, người mới đồng ý cho muội theo sư phụ làm đồ đệ, từ đó muội bắt đầu học công phu.
-Dương Thu Trì nghe mà mắt trợn tròn, dùng một vốc đồng tiền cỡ mười cái trong lúc rơi xuống đất đó mà búng đi hết đã khó rồi, lại còn búng đồng tiền găm vào trong cột gỗ thật là quá khó.
-Thứ nhãn thần, tốc độ, công lực bún tay này kém bất kỳ cái nào đều không thể thành công.
-Tống Vân Nhi có thể trong chớp mắt đến trọn được một số lượng đồng tiền khá lớn được ném ra, mục lực thuộc hàng khó kiếm rồi, sự phụ của nàng có lẽ là nhìn thấy khả năng trời cho này phù hợp với lộ số võ công của mình nên mới nhận nàng làm đồ đệ.
-Trong vũ lâm rất khó tìm sư phụ giỏi, nhưng đồ đệ giỏi còn khó tìm hơn.
-Gặp phải Tống Vân Nhi có thiên tư tốt như vậy, hèn gì sư phụ của nàng chấp ý phải thu cho được nàng.
-Dương Thu Trì cười hỏi:
-Ta chưa hề gặp qua sư phụ của muội bao giờ, lão nhân gia người hiện giờ ở đâu?
-Cái gì mà lão nhân gia.
-Sư phụ của muội mới ba chục tuổi đầu thôi!
-A?
-Dương Thu Trì cả kinh, ba chục tuổi mà võ công xuất sắc như vậy, tới trăm tuổi chắc là biến thành thiên hạ vô địch thủ rồi?
-Hì hì Tống Vân Nhi cười nói, Không cần đến 100 tuổi, muội dám nói đương kim võ lâm sợ rằng chẳng có ai thắng được sư phụ của muội.
-Ý tứ của muội là sư phụ của muội ba chục tuổi đầu đã thiên hạ vô địch rồi sao?
-Dương Thu Trì chớp chớp mắt cười.
-Không tin thì thôi!
-Tống Vân Nhi dẫu đôi môi hồng.
-tin tin, ta tin!
-Dương Thu Trì vội vã thu lại nụ cười, làm ra vẻ nghiêm nghị hỏi Vậy sư phụ của muội đâu?
-Sao ta chẳng lần nào thấy người vậy?
-Đừng nói gì huynh, hiện giờ ngay cả muội cũng khó gặp mặt người.
-Tống Vân Nhi thở dài.
-Dương Thu Trì kỳ quái:
-Không phải như vậy chứ?
-Muội từ lúc năm tuổi đã bắt đầu học công phu, lúc đó người ở trong nhà muội.
-Suốt ngày suốt đêm đều ở cạnh muội, lúc muội mười hai tuổi, người nói có thể dạy được muội cái gì đều đã dạy hết rồi, còn lại chỉ là muội cần luyện hỏa hầu và kinh nghiệm mà thôi.
-Từ đó trở đi, sư phụ thật lâu mới quay lại tìm muội, khảo sát võ công và sự tiến triển của muội, do đó lâu quá rồi muội chưa từng gặp lão nhân gia người.
-Xa đội tiếp tục đi thêmmười dặm nữa thì dừng lại, tiếp đó có tiếng vó ngựa chạy vội lại trước đầu xe, tiếp đó là tiếng của Nam Cung Hùng:
-Đại nhân, chúng tôi đã phát hiện xe ngựa khả nghi ở Đông Môn độ rồi!
-Tiểu nha hoàn Nguyệt Thiền mở cửa rèm, Dương Thu Trì thò đầu ra vui mừng hỏi:
-Ở chỗ nào?
-Khoảng một dặm ngay lối rẽ phía trước có một lò than lớn, có hơn mười xe hàng hóa dừng lại ở đó, hình dáng xe đều phù hợp với lời của đại nhân nói.
-Chúc hạ không biết rốt cuộc là chiếc xe nào, bèn bắt tất tần tật họ lại, chờ đại nhân thẩm định.
-Giỏi!
-Dương Thu Trì hưng phấn nói, Đến Đông Môn độ!
-Đường lộ ở đây không còn tốt như quan đạo, gập ghềnh khiến xe lắc lư lệ hại, nhưng dù sao thì xe hàng hóa có thể tiến vào, xe ngựa hòa hoa của Dương Thu Trì dù sao cũng có thể tiến.
-Một dặm đường cong cong quẹo quẹo rồi cũng qua, họ đến một khoảng trống có hơn mười xe ngựa chở hàng đang đậu.
-Một bộ phận cẩm y vệ đã đi đến đây trước bắt đầu làm công tác cảnh giới, mọi người đều bị tập trung lại một chỗ, bị cẩm y vệ cầm đao canh gác.
-Thấy Dương Thu Trì xuống xe, Nam Cung Hùng quát bảo đám hán tử đốt lò than:
-Lão gia đến rồi, còn không mau quy xuống nghênh tiếp!
-Những hán tử đó thấy các hộ vệ cầm đao sáng loáng, không dám nói nửa tiếng không.
-Tuy Dương Thu Trì không mặc quan phục, nhưng thấy dáng vẻ và bộ hạ như vậy, nhất định là quan phủ lão gia rồi.
-Các lão bá tính Trung quốc cổ đại đều sợ quan, không cần biết quan này có quản được mình hay không, chỉ cần nhìn thấy quan là sợ, thấy áo quan là lập tức quỳ xuống lạy, vì đó chính là quy củ.
-Dương Thu Trì cảm thấy làm quan ở thời cổ đại thật uy phong, đấy là chưa kể chức tước hiện giờ của hắn chẳng là gì, nếu sau này mà bản thân hắn quản lý một mẫu tam công đất gì đó, nói không chừng còn hoành tẩu bốn phương chứ chẳng chơi.
-Dương Thu Trì dẫn theo Tống Vân Nhi bước tới trước đám hán tử đàng quỳ, quát hỏi:
-Các ngươi ai là người đánh xe đụng ngã một hài tử?
-Mau khai ra còn có thể nhận được sự khoan dung, nếu không bổn huyện một khi tra ra rõ ràng, quyết bất lưu tình!
-Hai chữ bổn huyện nói ra thật là sướng miệng, đại biểu cho một loại quyền uy, lực lượng.
-Nhưng, lực lượng thì lực lượng, chẳng có ai thèm để ý, đám hán tử đang quỳ này im phăng phắt, không ai ứng tiếng.
-Lúc này, Kim sư gia và Long sư gia đã đến sau lưng Dương Thu Trì.
-Dương Thu Trì quay lại hỏi Kim sư gia:
-Kim tiên sinh, trong Đại minh luật chúng ta, người đánh xe ngựa đụng chết người được xử như thế nào?
-Kim sư gia cúi người thưa:
-Quan đạo hay là đường trong trấn, rong ruỗi xe ngựa đụng chết người, đánh một trăm trượng, đày ba nghìn dặm, trả tiền mai táng mười lượng bạc.
-Dương Thu Trì giật nãy mình, xử phạt như thế này quả là nặng.
-Căn cứ theo pháp luật hiện hành tại Trung Quốc, khi giao thông xảy ra sự cố dẫn đến chết người, thì người có tội bị phạt giam năm năm, nhưng nếu trong tình huống bình thường, chỉ vì tội gây tai nạn giao thông, tối đa chỉ ở tù ba năm là hết, hơn nữa đại đa số trường hợp đều là tạm hoãn thi hành án.
-Nếu so ra, pháp luật ở Minh triều nghiêm khắc hơn.
-Dương Thu Trì hỏi:
-Các ngươi nghe rõ chưa?
-Nghe rõ rồi.
-Những hán tử kia cúi đầu đáp, nhưng vẫn chưa có ai nhận tội.
-Thấy vậy, Dương thu Trì lười đôi co với họ, chuyển người tiến đến các xe ngựa bắt đầu cẩn thận tìm kiếm.
-Tống Vân Nhi cũng bám sát theo Dương Tu Trì, chỉ cần liếc nhìn sơ nàng cũng thấy có ba chiếc xe có hoàng phiếu mã kéo, liền chỉ cho hắn.
-Dương Thu Trì lệnh cho Nam Cùng Hùng kéo ba chiếc xe này qua một bên, sau đó bước lại cẩn thận tra xét, tuy đều là ngựa lông vàng đốm trắng, nhưng màu lông có nhiều khác biệt.
-Tống Vân Nhi nhỏ giọng hỏi:
-Ca, huynh sao không lấy sợi lông kia ra so sánh?
-Không cần, Dương Thu Trì mỉm cười, Vân nhi, nhãn lực của muội nhanh, có thể mục thị quần dương, mắt của ca ca ta đây lại có một đặc điểm, là nhìn qua là nhớ rất chính xác.
-Hơn nữa sợi lông kia vừa xem qua, những con hoàng phiêu mã của ba xe này có màu lông khá khác biệt nhau, cho nên không cần lấy sợi lông kia ra cũng biết được đó là cổ xe nào.
-Thật không?
-Huynh nhìn ra chiếc nào rồi à?
-Dương Thu Trì gật đầu, chỉ vào một chiếc trong đó:
-Chính là chiếc này, bèn quay đầu lại hỏi đám hán tử kia:
-Chiếc xe ngựa này là của ai?
-Một trung niên hán tử run rẫy bước ra, quỳ xuống dập đầu thưa:
-Là của tiểu nhân.
-Ngươi chính là hung thủ đánh che đụng chết hài tử!
-Hán tử kia dập đầu kêu oan.
-Dương Thu Trì cười lạnh, rút từ trong người ra gói vải có chứa sợi lông ngựa màu vàng kia, quẳng đến trước mặt hán tử:
-Nhìn cho kỹ đi, đây chính là một sợi lông ngựa bổn huyện thu được từ trên trán của hài tử ngươi đụng chết, người nhìn cho rõ coi có phải là lông của con hoàng phiếu mã kéo xe của ngươi không!
-Hán tử đó run rẫy mở gói vải, cầm lấy một sợi lông dính máu nhìn nhìn, sắc mặt tái nhợt, nhưng vẫn một mực kêu oan.
-Dương thu Trì bước lại cạnh con hoàng phiếu mã, cúi người nhìn kỹ chân trước của nó, lại rút từ trong người ra một cái khăn trắng, lau chùi một vết máu trên chân trước của nó, bước lại trước mặt hán tử, quẳng cái khăn cho y, bảo:
-Chân trước con ngựa của ngươi không hề thụ thương, vậy chứ khối huyết này từ đâu mà ra?
-Rõ ràng là sau khi chân ngựa đá vỡ trán của hài tử vang máu dính phải!
-Hán tử đó cầm lấy khăn, càng lúc càng run hơn.
-Dương Thu Trì đột nhiên đưa tay ra chụp hai cổ tay của hán tử, lật lên nhìn, cười lạnh bảo:
-Trên tay ngươi còn vệt hồng này đây chẳng lẽ không phải là máu sao?
-Đây chính là máu dính vào trong lúc ngươi ẵm hài tử đem giấu vào trong đám cỏ dại.
-Ngươi không ngờ chúng ta nhanh chóng tìm ra ngươi, cho nên còn chưa kịp đi tẩy rửa, đúng không?
-Lập tức hắn phẫy tay, quát:
-Ngươi còn không khai, chẳng lẽ muốn bổn quan dùng hình hay sao?
-Mặt hán tử tái nhợt, dập đầu lia lịa:
-Đại lão gia, tôi xin khai, tôi đánh xe ngựa chổ gỗ đi ngang qua thôn đó, thì có một hài tử đột nhiên từ bên lộ chạy vụt ra chắn ngang giữa lộ.
-Tôi không kịp dừng ngựa, nên mới đụng ngã nó.
-Tôi xin khai.
-Dương Thu Trì trừng mắt:
-Nói bậy!
-Điêu dân lớn mật, còn dám hỗn hào thị phi, nói nhăn nói càn, ngươi cho rằng bên cạnh không có ai chứng kiến là có thể nói bừa được hay sao?
-Tiểu nhân nói đây là thật tình, xin đại nhân minh xét.
-Minh xét?
-Ta đương nhiên minh xét rồi.
-Ta hỏi ngươi, lúc ngươi ẵm hài tử đi giấu đó, ngươi nhất định đã tra rõ thương thế của hài tử rồi, đúng không?
-Hán tử do dự một lúc, rồi gật đầu.
-Hài tử bị thương ở chỗ nào?
-Dương Thu Trì hỏi, sau đó trầm giọng tiếp:
-Ta cảnh cáo ngươi, thi thể của hài tử hiện giờ còn ở trong thôn, có thể nghiệm thương bất cứ lúc nào, ngươi dám nói nhăn nói càng, cứ chờ mà chịu nỗi khổ da thịt!
-Hán tử dập đầu:
-Tỉểu nhân không dám, dường như, dường như là ở trán và ngực, ngoài ra đùi còn bị gãy nữa.
-Làm chuyện sai rồi dám thẳng thắn thừa nhận như vậy mới nên, từ vết thương của hài tử có thể nhận rõ rằng nó bị đụng ngay chính diện, ngươi vừa rồi nói đứa bé đột nhiên chạy ngang lộ mới bị xe ngựa đụng, và như vậy thì nó bị đụng ngay bên hông, vậy thì ngươi giải thích như thế nào, hả?
-Hán tử toát đầy mồ hôi trán, sắc mặt tái nhợt:
-Tôi xin khai, là tôi nói dối, tối qua tôi uống rượu tới canh năm, chỉ chợp mắt một chút thì đánh xe ngựa vận chuyển gỗ đến lò than này, xuất phát đã muôn rồi, tôi lại sợ trời đông, nên vội vã giục ngựa chạy nhanh.
-Nhưng trên đường đi thật mệt mỏi, trong lúc mông lung tôi không phát hiện giữa đường có một đứa bé đang chơi.
-Sau khi xe ngựa đụng phải, tôi mới thanh tỉnh, dừng cương ngựa lại xuống xem, thấy đứa bé đó đã ói ra máu không xong đến nơi rồi.
-Tôi rất sợ, thấy xung quanh không người, nên len lén ẵm hài tử đến đám cỏ ven ruộng giấu, sau đó nhanh chóng đánh ngựa chạy đi.
-Dương Thu Trì hỏi Kim sư gia:
-Nơi này còn là địa giới của Ứng Thiên phủ không?
-Còn, Kim sư gia đáp, Nhưng mà án này không cần giao cho Ứng thiên phủ, trước đây không xa là Thái Bình phủ, nơi này quy vào quyền trực tiếp quản hạt của Thái Bình phủ, cứ giao cho họ là được.
-Dương Thu Trì lệnh cho trói hán tử này lại, kéo xe ngựa theo, lão hán và cháu là khổ chủ cũng phải theo.
-Án này được phá rất nhanh, Dương Thu Trì và mọi người thoải mái tâm tình, nên uống rượu càng lúc càng hứng chí.
-Họ đi không quá một canh giờ là tới Thái Bình phủ.
-Dương Thu Trì là quan viên đi nhậm chức ở xa, do đó phải ghé ngang qua dịch trạm để nghỉ ngơi.
-Dịch trạm thời Minh còn có tác dụng của một chỗ chiêu đãi, ngụ ở dịch trạm vừa an toàn, vừa có đầy đủ điều kiện ăn uống.
-Nhưng mà hiện giờ là giữa trưa, chưa đến lúc nghỉ ngơi.
-Dương Thu Trì bảo Nam Cung Hùng đem xe ngựa và kẻ phạm tội đến Thái Bình phủ nha môn để cho quan ở đó xử lý.
-Lão hán có con bị xe đụng chết, không ngờ nhanh chóng tìm ra người phạm tội, nên cảm kích phi thường, dập đầu cảm tạ Dương Thu Trì.
-Làm xong các chuyện này, Dương Thu Trì cùng mọi người đi tìm một tửu lâu lớn trong thành ở Thái Bình phủ ăn uống.
-Nam Cung Hùng phái các cẩm y vệ tiến lên tầng hai của tửu lâu tiến hành tra xét, một lúc sau không phát hiện nhân vật khả nghi, bố trí cảnh giới xong xuôi mới mời Dương Thu Trì cùng mọi người xuống xe.
-Dương Thu Trì vừa xuống xe ngựa, bị gió lạnh thổi tới, rùng mình run.
-Tiểu nha hoàn Nguyệt Thiền vội vã khoác lên người hắn một chiếc áo da chồn, đó chính là món mà Phùng Tiểu Tuyết đặc biệt làm cho hắn.
-Nguyệt Thiền đỡ Bạch phu nhân xuống ngựa, Dương Thu Trì vốn muốn tự làm gan bước tới đỡ Bạch Tố Mai, không ngờ Tống Vân Nhi đã cướp lấy thời cơ của hắn, lại còn nói; Ca, bên ngoài lạnh lắm, huynh mau tiến vào trong, cẩn thận bị cảm đó!
-Âm mưu của Dương Thu Trì không thành công, chẳng còn mặt mũi nào để chen tay vào, đành cười ha ha bước vào trong tửu lâu trước.
-Tửu lâu này tuy không thể bì đại tửu lâu ở Ứng Thiên phủ, nhưng cũng được sắp xếp khá thanh lịch.
-Chưởng quỹ của tửu lâu thấy Dương Thu trì cùng mọi người khí thế như vậy, biết là lai lịch không nhỏ, nên bước lại khom người tự thân chào mời, đưa cả bọn lên tầng hai ngồi đợi.
-Trời mùa đông, tửu lâu chẳng có mấy người, cộng thêm mấy cẩm y vệ hộ vệ eo dắt đao như lang như hổ, khiến cho các thực khách ở tầng hai vội vã tính tiền rút lui hết.
-Dương Thu Trì cảm thấy bối rối, nhưng như vậy cũng hay, trên đường đi an toàn là trên hết.
-Trong căn phòng lịch sự ấy có một lò sưởi, Dương Thu Trì tiến vào cảm thấy rất ấm, nên mới thở phào nhẹ nhõm, rồi sau đó làm ra vẻ thân sĩ đứng ở cửa, đón hai mẹ con Bạch phu nhân và Bạch Tố Mai vào trong.
-Mọi người ngồi đâu vào đấy, chuyện ẩm thực trên đường đi do Long sư gia phụ trách, và y đã chọn một tiệc rượu tinh tế.
-Dương Thu Trì gọi chưởng quỹ lại, hỏi:
-Tửu lâu của ngươi có làm món chay được không?
-Chưởng quỷ trong quá trình đón tiếp khách có nhân vật nào mà chẳng gặp qua.
-Bạch Tố Mai tuy áo quần trắng tinh, đầu tóc dài, nhưng lại mang nũ ni cô, nên y vừa nhìn đã biết người xuất gia.
-Hiện giờ Dương Thu Trì hỏi như vậy, lập tức hội ý, cười ha ha nói:
-Đại gia ngài đến đúng chỗ rồi, tửu lâu chúng tôi làm đồ chay phải nói là số dách, xa gần đều nghe danh, muốn ăn thường đến trước, hoàn cảnh u nhã, sắc hoa đa dạng, chế tác đều có khảo cứuĐược rồi được rồi, Dương Thu Trì cười ngắt lời giới thiệu của y, Có món ăn chay giả mặn như la hán chay, lươn sào chay, nhân sâm tươi, bạch ngọc mặt quạt không?
-Có có!
-Chưởng quỹ giơ ngón tay cái lên, Xem ra đại lão gia ngài còn là một đại hành gia về ăn uống.
-Vậy nhanh chóng dọn ra đi, nhanh lên, làm đồ chay trước!
-Có ngay!
-Chưởng quỹ khom người định lui ra, Dương Thu Trì gọi y lại, kề tai nói nhỏ mấy câu, chưởng quỹ lập tức vâng dạ chạy ra ngoài.
-Tống Vân Nhi nghi hoặc nhìn Dươn Thu Trì:
-Ca, huynh vừa rồi chọn mấy món muội nghe sao giống thức ăn mặn vậy?
-Cái này muội không biết rồi, nó gọi là đồ chạy giả mặn, là đồ chay nhưng làm giống y các món mặn vậy, chủ yếu dùng các thực phẩm chay như đậu hủ hay nấm, nhưng nặn thành hình giống như cá tôm cua thịt, khó phân biệt thật giả lắm.
-Tống Vân Nhi kỳ quái hỏi:
-Ca, huynh sao lại biết luôn cả làm món chay vậy?
-Bộ huynh đã từng xuất gia rồi hay sao?
-Không, Dương Thu Trì chớp chớp mắt, chọc nàng:
-Nhưng mà, kiếp trước ta là một đại hòa thường.
-Tống Vân Nhi trợn mắt nhìn hắn:
-Không nghiêm túc chút nào!
-Trên đường Dương Thu Trì và bọn họ uống rượu ăn thịt, Bạch Tố Mai chỉ có thể uống trà, bụng đã sớm đói sôi rột rột, khi lên tiểu lâu, đang lo nếu như Dương Thu Trì chỉ gọi món mặn thì nàng phải làm sao đây?
-Nhưng khi nghe Dương Thu Trì có chọn một bàn đồ chay, lại bảo phải đưa lên trước, dường như biết rõ nàng đã đói lắm rồi, nên có phần ngượng, lí nhí nói:
-Đa tạ Dương công tử.
-Không cần khách khí, Bạch cô nương, muốn ăn cái gì cứ nói lên là được.
-Dương Thu Trì cười xòa.
-Đồ chay nhanh chóng được dọn lên.
-Từ sau lần bị dư đảng của Kiến Văn đế ở Bắc Tiếu thôn tập kích, Nam Cung Hùng biết chúng sẽ không tiếc mọi thủ đoạn để giết cho bằng được Dương Thu Trì.
-Để đề phòng bọn chúng hạ độc, từ đó trở đi, Dương Thu Trì cùng người nhà đều ăn những món do Nam Cung Hùng an bày hộ vệ chuyên môn theo dõi toàn bộ quá trình, sau khi chế biến còn dùng ngân trâm thử qua, thậm chí còn mua một đám gà nuôi chuyên dùng để thử xem trong thức ăn có độc hay không.
-Hiện giờ số đồ chay này đã chế biến xong, lại kinh qua sự giám sát nghiêm cách của cẩm y vệ hộ vệ do Nam Cung Hùng phái xuống nhà bếp theo dõi, đồng thời kinh qua sự kiểm nghiệm bằng ngân trâm, do đó Dương Thu Trì yên tâm mời Bạch Tố Mai động đũa, lại mời mọi người cùng dùng qua món chay.
-Tuy đồ ăn làm rất tinh tế, nhưng Dương Thu Trì và mọi người đều là kẻ ăn mặn, thứ đồ chay này chẳng hợp khẩu vị chút nào, thử qua vài miếng rồi thôi.
-Bạch Tố Mai ngược lại lại ăn uống ngon lành, nàng đã lâu không được ăn món ăn hợp khẩu vị không thể mơ tới như thế này, hàng ngày đều chỉ có vài món rau và một miếng đậu hủ.
-Từ khi bị bắt vào ngục, đồ ăn thức uống càng tệ hơn, tuy là được Mã Độ quan tâm, tuy thức ăn có cải thiện một chút, nhưng tâm tình không tốt không thể nào nuốt vô, kế nữa là đầu bếp trong tù làm sao nấu món ăn ngon sánh được với đại sư phụ trong tửu lâu chứ.
-Bạch Tố Mai dù sao cũng là con nhà quan, khẩu vị khá cao.
-Nàng vốn không thích ăn mặn, do đó khi đi tu phải ăn chay dù sao cũng hợp khẩu vị, tuy đòi hỏi khá cao.
-Hiện giờ được ăn món chay ngon như thế này, lòng thầm cảm kích, đôi mắt hơi ươn ướt.
-Sao vậy?
-Không hợp khẩu vị à?
-Dương Thu Trì quan tâm hỏi.
-Bạch Tố Mai ngẩng đầu cảm kích nhìn hắn, lắc đầu, không nói lời nào.
-Nàng ăn xong, một sư phụ đầu trọc được chưởng quỹ đưa tới, giới thiệu cho Dương Thu Trì:
-Đại lão gia, đây là tay đao có danh trong Thái Bình phủ chúng tôi, được tổ truyền cho nghề cạo đầu, tôi đã mời tới cho ngài.
-Tống Vân Nhi kinh ngạc hỏi:
-Ca, huynh thỉnh sư phụ đến làm cái gì?
-Chẳng lẽ huynh định cạo trọc đầu đi tu cùng Bạch tỷ tỷ sao?
-Vừa nói ra nàng đã biết mình lỡ lời, ca ca của nàng là huyện thái lão gia, xuất cái quỷ gì gia chứ, chỉ chớp mắt một cái đã hiểu ra, nói:
-Ca ca thấy tóc của Bạch tỷ tỷ dài rồi, tìm sư phụ cạo tóc dùm cho tỷ ấy, đúng không?
-Dương Thu Trì gật gật đầu, Bạch Tố Mai càng cảm động, nói với hắn:
-Dương công tử, đa tạ công tử đã phí tâm như thế.
-Bạch phu nhân đưa con gái qua phòng kế bên cạo trọc đầu, đến lúc này thì tiệc rượu cũng được dọn lên.
-Do ăn xong còn phải lên đường, mọi người chỉ uống một chút rượu, ăn vừa đủ no cũng là lúc Bạch Tố Mai cạo đầu xong.
-Họ tiếp tục lên đường, tối hôm đó đến nghỉ ở một thành trấn nhỏ.
-Hai mẹ con Bạch phu nhân là tội phạm lưu đày, trong tình huống bình thường, hai người phải được đưa đến nhà lao của huyện nha môn giam lại, đến ngày hôm sau mới được thả ra áp giải đi tiếp.
-Nhưng hiện giờ hai người họ cùng đi với Dương Thu Trì, không cần an bài như vậy nữa.
-Dương Thu Trì cùng mọi người đến dịch trạm trong huyện thành, sắp xếp cho hai mẹ con Bạch phu nhân một gian phòng, Tống Vân Nhi cùng Hạ Bình ngủ cách vách với Dương Thu Trì, Nam Cung Hùng thì ngụ ở phía bên kia, nhưng hộ vệ, sư gia và quan sai đều được an bày chỗ nghỉ ngơi đâu vào đó, Nam Cung Hùng còn bố trí người canh gác.
-Dương Thu Trì ở trong một gian phòng hào hoa nhất trong dịch trạm, gian phía ngoài có tiểu nha hoàn Nguyệt Thiền ngủ để tiện phục dịch bất cứ lúc nào, còn hắn thì ngủ ở gian trong.
-Sự phục vụ của dịch trạm cực tốt, có nước nóng, lại có một bồn nước to có thể ngâm tắm.
-Ăn cơm tối xong, đi đường mệt nhọc nên mọi người chia tay ai về phòng người ấy nghỉ ngơi.
-Tiểu nha hoàn Nguyệt Thiền đã chuẩn bị nước ấm, phục dịch cho Dương Thu Trì cởi quần áo tắm táp, lại bóp lưng cho hắn.
-Dương Thu Trì đã quen với sinh hoạt hủ bại của xã hội cũ như thế này, và cũng quen để cho tiểu nha hoàn phục vụ mình, nên không còn đỏ mặt tía tai kêu la chí chóe như lúc trước nữa.
-Giữa mùa đông giá lạnh mà tắm nước ấm sạch sẽ xong, cảm thấy thân thể thoải mái vô cùng, Dương Thu Trì ra ngoài hành lang nhìn ánh trăng đang treo trên khoảng không trên đầu, thầm nghĩ nếu như bản thân có võ công chỉ cần nhún mình một cái là lên nóc nhà, tha hồ ngồi trên đó ngắm trăng, như vậy thật đúng là đầy vẻ hữu tình và dạt dào ý thơ.
-Trong lúc hân thưởng ánh trăng, một cơn gió lạnh thổi qua, cảm giác hơi rét, rồi thân người chợt có cái gì đó ấm áp choàng lên, thì ra là tiểu nha hoàn Nguyệt Thiền đem áo choảng khóac lên vai của Dương Thu Trì.
-Nguyệt Thiền hỏi:
-Thiếu gia, thiếu gia đang nhìn gì vậy?
-Dương Thu Trì chỉ lên vầng trăng tròn trên mái nhà:
-Tên của ngươi là Nguyệt Thiền, là Thường Nga trên cung trăng kia, ngươi nói coi trên đó có gì?
-Tôi chỉ là một tiểu nha đầu, có gì đâu mà Thường Nga a, thiếu gia người đừng có cười tôi nữa, tôi làm gì biết trên cung trăng có gì.
-Vậy ngươi có muốn biết không?
-Dương Thu Trì tắm nước nóng xong, tâm tình thật vui vẻ.
-Nguyệt Thiền kỳ quái hỏi:
-Thiếu gia, chẳng lẽ thiếu gia biết trên cung trăng có gì sao?
-Dừng một chút, cô bé cười hì hì:
-Nguyệt Thiền biết rồi, thiếu gia nhất định là chú cuội Ngô Cương trên cung trăng, cầm búa đi chặt cây quế.
-Ngươi là Thường Nga, ta là Ngô Cương, vậy hai chúng ta chẳng phải là một đôi hay sao?
-Hắc hắc hắc.
-Dương Thu Trì thú vị chọc.
-Người là đại lão gia, tôi là tiểu nha hoàn, tôi làm gì có cái phúc đó a.
-Nguyệt Thiền cúi đầu nói, nhưng trong thâm tâm thì cảm thấy rất ngọt ngào.
-Dương Thu Trì cảm thấy giởn chơi như thế này không ổn, bèn ho khan một tiếng, nói:
-Trên cung trăng kỳ thật chẳng có Thường Nga, cũng không có Ngô Cương, càng không có cây quế hoa, không có nước, sông, không chim cá hoa côn trùng, người khác nói ngươi không thể nghe, đó là một thế giới chết chóc.
-Nguyệt Thiền rùn mình:
-Thật không?
-Thiếu gia nói gì mà ghê quá vậy.
-Cung trăng đẹp như thế, sao lại không có hoa điểu ngư trùng?
-Sau lưng truyền tới giọng nói của nữ nhân, Dương Thu Trì quay lại nhìn, thấy đó chính là Bạch Tố Mai.
-Bạch cô nương, cô còn chưa ngủ sao?
-Tim Dương Thu trì rộn ràng.
-Vẫn chưa a.
-Bạch Tố Mai bước đến cạnh Dương Thu Trì, ngẩng đầu nhìn trăng sáng, Dương công tử, tôi nghe người lớn nói bóng đen trên cung trăng kia chính là một cây hoa quế, sao lại không có hoa được?
-Dương Thu Trì thật sự không muốn đàm luận với họ về chuyện phi thuyền bay lên cung trăng, nên cười cười đáp:
-Ta nói nhăng để chọc Nguyệt Thiền chơi thôi mà.
-Bạch Tố Mai rõ ràng là cũng mới vừa tắm xong, thay một áo tơ trắng sạch sẽ, dưới ánh trăng chiếu rọi, gương mặt hơi ốm của nàng hiện rõ vẻ tao nhã khác thường.
-Dương Thu Trì không dám nhìn nàng, sợ sẽ liên tưởng tới cảm giác lúc làm hô hấp nhân tạo cho nàng, đành ngẩng đầu nhìn vầng trăng thở dài nói:
-Trăng đẹp quá, tròn quá, trăng trung thu chảng qua cũng như thế này mà thôi.
-Đúng a.
-Bạch Tố Mai dịu dàng đáp, Trước đây vào tiết Trung thu, cha tôi thường chuẩn bị hoa quả ở giữa hoa viên, rồi cả nhà vừa ăn vừa thưởng nguyệt, nghĩ đến trên cung trăng đẹp đẽ thế nào, tưỡng tượng cây quế hoa, Thường Nga, và hình dáng của Ngô Cương.
-Đúng rồi, còn có con tiểu bạch thỏ của Thường Nga nữa, thật là muốn bay lên cung trăng xem cung Quảng Hàn quá.
-Dương Thu Trì nói:
-Ta thật ra chẳng lãng mạn như vậy, lúc còn nhỏ, vào đêm trung thu chúng ta thường đi ăn trộm bí ngô của người ta, rồi mang về vườn bày bếp nấu canh bí.
-Sau đó cả đám hài tử sẽ vừa hát vừa cười nhìn trăng từ từ lên.
-Bạch Tố Mai bụm miệng cười, nói:
-Dương công tử lúc nhỏ nhất định là nghịch lắm.
-Đúng vậy, mỗi lần đi trộm bí ngô vào tiết trung thu, ta cũng bày đầu, có một lần còn bị người canh ruộng bí đánh cho u đầu, sưng một cục trên trán.
-Bạch Tố Mai hiếu kỳ hỏi:
-Vì sao lại phải trộm?
-Không tiền mua hay sao?
-Đó là tập tục của chúng tôi.
-Vào tiết trung thu nấu canh bí ngô, và chỉ có bí ngô đi trộm về nấu mới thơm ngon.
-Do đó vào ngày đó lão bá tánh đều ra canh ruộng bí, nhưng mà nếu có vài đứa bé đến trộm, thì chỉ cần đuổi đi là được, không cần phải đánh đập gì.
-Nhưng lần đó ta thật là xui, đi trộm một lần rồi lại quay trở lại trộm giúp dùm người khác nữa, kết quả là bị người ta bắt đánh cho một trận.
-Nguyệt Thiền đứng bên cạnh nghe thế cười hăng hắc:
-Thiếu gia, thiếu gia lúc nhỏ không ngờ nghịch ngợm như vậy a!
-Cái đó thì tính làm gì, chuyện tinh nghịch của ta còn nhiều lắm, Dương Thu Trì nói đến lúc cao hứng, bèn đem chuyện đi học lúc nhỏ ra khoe:
-Ví dụ như len lén lên bục giảng của thầy bỏ rắn mối vào trong hộp phấn, lúc ở tiểu học làm llớp trưởng, tranh cải với bạn nữ trong lớp, trong lúc nóng giận đã khóa bạn nữ trong phòng lại rồi bỏ về nhà, hại cho thầy hiệu trưởng tìm đến nhàNói đến đó, Dương Thu Trì cảm giác Bạch Tố Mai và Nguyệt Thiền đang nhìn hắn rất kỳ quái, đột nhiên tỉnh ngộ bản thân đang ở Minh triều, đem mấy chuyện sinh hoạt trường lớp thời hiện đại kể ra đương nhiên họ không hiểu, bèn nói:
-Được rồi, trời khuya rồi, trở về ngủ thôi.
-Ngày mai còn phải lên đường nữa.
-Bạch Tố Mai gật đầu:
-Dương công tử trên đường chiếu cố cho chúng tôi rất nhiều mệt rồi, công tử cũng nên ngủ sớm đi.
-Ừ.
-Dương Thu Trì nhìn Bạch Tố Mai tiến về phòng, mỉm cười nhìn nàng khép cửa lại rồi mới trở về phòng.
-Nguyệt Thiền đã chuẩn bị sẳn mền gối, phục thị Dương Thu Trì ngủ xong, rồi kéo rèm xuống thổi đèn ra gian ngoài ngủ.
-Sáng hôm sau thức dậy sớm lên đường, vẫn năm người họ cùng ngồi trên xe ngựa hào hoa to lớn như cũ.
-Dương Thu Trì thấy Tống Vân Nhi buồn buồn, hơi kỳ quái hỏi:
-Vân nhi, muội sao vậy?
-Ngủ không đủ sao?
-Ngủ cái gì mà ngủ!
-Ba con chuột ở ngoài hành lang rúc ra rúc rích kháo nhau về cung trăng, kêu người ta sao mà ngủ được?
-Dương Thu Trì biết nàng đang nói chuyện ba người đêm qua, liền cùng Bạch Tố Mai nhìn nhau cười, rời bảo:
-Vậy con chuột nhắc muội sao không chịu bò ra ngắm trăng vậy?
-Muội đâu có nhiều thi tình họa ý như vậy, lời Tống Vân Nhi nghe có vẻ chua chát, nhưng chẳng mấy chốc sau, nàng bị dư vị của câu chuyện mà Dương Thu Trì kể về thửa còn thơ thu hút, nên bảo:
-Ca, huynh dùng con rắn bốn chân đó dọa người khác có gì đâu mà nghịch ngợm, muội đây lúc nhỏ mới chính là tinh nghịch này!
-Dương Thu Trì nghĩ, ánh hào quang của tên tiểu tử nhà cô không cần nói ta cũng đoán được, từ lần mới gặp nhau mà cô đã cướp bạc của ta là ta đã biết rồi, tuy nhiên hắn vẫn giả vờ hiếu kỳ hỏi:
-Muội nghịch thế nào?
-Chuyện liên quan đến lúc còn nhỏ toàn là chuyện vui, nên chẳng mấy chốc Tống Vân Nhi lấy lại hứng thú, múa chân múa tay kể lễ liên tục.
-Bạch Tố Mai nghe cũng cảm thấy lạ lẫm vô cùng, nhịn không được cũng đem chuyện lúc nhỏ của nàng ra kể, Bạch phu nhân thỉnh thoảng cũng chen lời bổ sung, nói nói cười cười trên xe tràn ngập niềm vui.
-Có chuyện nói cười tất đường như ngắn lại, vài ngày sao, Dương Thu Trì cùng mọi người đến An Khánh phủ, rời khỏi địa giới của kinh sư, tiến vào địa phận Hồ Quảng.
-Sau khi vào vùng Hồ Quảng, mọi người phát hiện hai bên đường từ từ có nhiều hành khất hẳn lên, thậm chí có người mang theo cả gia đình, dường như là đi chạy lánh nạn đói vậy.
-Tống Vân Nhi tùy tiện hỏi một người, mới biết mua thu năm rồi ở vùng Hồ Quảng có dịch hại, hoa màu bị châu chấu ăn sạch, mùa đông lại có tuyết lớn, lão bá tánh không thế nào chịu nỗi, mùa xuân vừa tới thì thóc lúa trong nhà đều đã an sạch, cho nên họ mới mang theo vợ con đi chạy nạn.
-Tiến về trước, họ đã có thể nhìn thấy người chết đói trên đường, những người chạy nạn kiếm ăn hiện giờ đều mặt vàng người gầy giơ xương, thoi thóp thở lấy hơi.
-Dương Thu Trì tận hết khả năng bỏ tiền mua lương khô cấp cho dân gặp nạn, nhưng mỗi khi phân phát ra, những người chạy nạn khác nghe tin liền kéo đến, vậy kính lấy xe ngựa của Dương Thu Trì dập đầu xin ăn, mọi lương khô phát sạch cả những chẳng thể nào đủ cấp cho những người đói tiếp tục kéo đến phía sau.
-Cứ như thế này thì không xong, bản thân hắn dù có núi vàng bể bạc cũng không thể nào cứu xuể bao nhiêu dân đói thế này, hơn nữa lại còn ảnh hưởng đến hành trình, cho nên Dương Thu Trì đành quyết định cứu những người sắp đói chết đến nơi.
-Mạc dù như vậy, đi đi dần dần phải nhiều ngày sao họ mới đến được Vũ Xương trong Hồ Quảng.
-Sau khi tiến vào Vũ Xương họ mới phát hiện toàn thành đều là dân chạy nạn, hai bên đường đầy người đói óm o.
-Các quan binh tuần tiểu thỉnh thoảng giục ngựa chạy qua, có thể nghe tin đâu đó có dân đói nhân vì tranh giành thức ăn lẫn nhau mà bị quan binh tuần tiểu chém chết.
-Dương Thu Trì cảm thán cho sinh mệnh quá mong manh, đồng thời hy vọng ông trời có thể giúp đỡ cho những dân đói này.
-Những chuyện bán con bán cái đều đã xuất hiện, đó là những người đầu tóc rối bời có cắm những cọc tiêu bàng cỏ để cho biết là hàng để bán, áo quần của họ lam lũ, trong gió lạnh run lên cầm cập.
-Trước đây khi xem phim, hắn thường thấy trong xã hội cũ nếu bá tánh không sống nỗi nữa thường đi bán con bán cái, hiện giờ chuyện đó hiện ra sờ sờ trước mắt, khiến Dương Thu Trì vô cùng cảm khái, ngẫm nghĩ lại thấy dân nghèo bán con chính là muốn con trai con gái của họ tìm đến nhà nào giàu có, có thể nhờ đó mà tiếp tục sống, đấy là biện pháp trong khi không còn biện pháp nào khác.
-Dương Thu Trì cùng mọi người đến dịch trạm tại Vũ Xương.
-Dịch trạm này nằm cạnh nha môn của Bố Chánh sứ.
-Mọi người bố trí chỗ nghỉ xong, căn cứ đề nghị của Kim sư gia, Dương Thu Trì chuẩn bị hai phần lễ vật phân ra mang đến bái kiến hai vị tả và hữu bố chánh của Hồ Quảng.
-Dương Thu Trì phá án như thần, nhưng chỉ có danh ở huyện Quảng Đức và Ninh Quốc phủ mà thôi.
-Phương tiện thông tin liên lạc tại Minh triều không phát triển, tin tức bế tắc, do đó ở Hồ Quảng chẳng có người nào biết hắn là ai.
-Bố chánh sứ chính là quan nhị phẩm của triều đình, chức vụ tương đương chủ tịch ủy ban nhân dân tỉnh hay bí thư tỉnh ủy như bây giờ, Dương Thu Trì là một huyện lệnh thất phẩm tép riu, căn bản không có cơ hội được tiếp kiến.
-Nhưng nhờ hai phần lễ vật trọng hậu của Dương Thu Trì, tả hữu bố chánh Tiền đại nhân và Quyền đại nhân đều phân biệt tiếp kiến hắn.
-Chỉ có đều, hai vị bố chánh này đều tâm sự trùng trùng, chỉ hàn huyên vài câu đã mời trà tiễn khách, khiến cho Dương Thu Trì tức đỏ cả mũi, nhưng dù vậy Kim sư gia vẫn cảm thấy cao hứng, khuyên Dương Thu Trì là hãy cứ từ từ, có cơ sở này rồi lần sau đăng môn bái phỏng sẽ dễ dàng hơn nhiều.
-Quan trường chính là vậy, không có tiền không gõ cửa nhà ai được, không có tiền không thể nào đả thông quan hệ.
-Dương Thu Trì lòng cao chí lớn, không chỉ mong quan vận hanh thông không thôi.
-Đương nhiên hắn không bài xích chuyện làm quan, chỉ đành dùng cái câu thế tục thường nói, đó là cứ làm như sủng nhục bất kinh, khứ lưu vô ý Không quan tâm thiệt hơn, đi hay ở cũng mặc.
-Kim sư gia lại an bài hắn đến bái kiến quan đề hình án sát sứ của Hồ Quảng là Thi đại nhân.
-Quan đề hình án sát sứ tuy nhỏ hơn quan bố chính một cấp, nhưng dù gì cũng là cao quan tam phẩm, chủ quản chuyện pháp luận phá án của một tỉnh, lại còn phụ trách trừng trị tham quan, lọc gian bạo, bình chuyện pháp luật, giải oan ức, chấn hưng tác phong và kỷ luật, đồng thời gạn đục lắng trong mọi chuyện trong tỉnh.
-Xem ra, Dương Thu Trì sau này không khỏi quan hệ với y, cho nên cần phải đả thông quan hề.
-Quan đề hình án sát sứ Thi đại nhân có chức quan nhỏ hơn, tính quan liêu do đó cũng nhỏ hơn, cộng thêm tác dụng từ lễ vật do Dương Thu Trì mang lại, nên Thi đại nhân nói nói cười cười với hắn lâu hơn, lời nói cũng khách khí hơn, mãi một lúc sau mới dâng trà tiễn khách.
-Cấp lãnh đạo trong tỉnh ngoại trừ bố chánh sứ và đề hình án sát sứ ra, còn có đô chỉ huy sứ chưởng quản quân sự của một tỉnh, cùng với chánh sứ ty và án sát sứ ty hợp xưng thành tam ti.
-Phía quân đội thì không có quan hệ gì mấy với Dương Thu Trì, do đó Kim sư gia nói tạm thời không cần đến bái phỏng, tương lai có chuyện thì tính sau.
-Ngoài ra, Vũ Xương phủ tại Hồ Quảng còn thiết đặt Thiên hộ sở của cẩm y vệ, thủ lĩnh thiên hộ tuy chỉ là quan ngũ phẩm, nhưng thân phận đặc thù, nên ngay cả Bố chánh sứ, đề hình sán sát sứ đều không dám coi thường.
-Nhưng thân phận cẩm y vệ chỉ huy sứ đặc sứ của Dương Thu Trì không đến lúc vạn bất đắc dĩ thì không thể tiết lộ, do đó hắn không hề đến bái phỏng thiên hộ thủ lĩnh nữa.
-Từ nha môn của đề hình án sát sứ đi ra, Tống Vân Nhi hỏi Dương Thu Trì tiếp theo nên đến đâu.
-Những chỗ cần đến chào hỏi ra mắt đều đã đến xong, điều còn lại chỉ là đi du lãm danh lam thắng cảnh của địa phương, đi chơi trong lúc công sai mà thôi.
-Đây là lần đầu tiên Dương Thu Trì đến Vũ Xương, cảm thấy nó rất hay, nơi hắn muốn đến đầu tiên chính là Hoàng Hạc lâu, vì là chỗ nổi tiếng, bao nhiêu văn nhân mặc khách đều dùng nơi ấy làm đối tượng ngâm tụng.
-Nhưng hiện giờ là giữa trưa, bụng hắn đã đói meo, nên quyết định đi tìm cái gì đó ăn đã, ngày mai hẳn đến Hoàng Hạc lâu.
-Nói đến ăn, Dương Thu Trì nhớ đến Mao lão nhân gia tức Mao Trạch Đông có bài:
-Tài ẩm trường sa thủy, hựu thực Vũ xương ngư.
-Vạn lý trường giang hoành độ, cực mục sở thiên thư.
-Nghĩa là:
-Vừa uống nước Trường Sa, lại ăn cá vũ Xương.
-Ngang qua Trường Giang vạn dặm, nhìn ngút mắt cõi trời nam.
-Chú:
-Sở thiên tức bầu trời nước Sởm nằm ở vùng giữa và hạ lưu sông Trường gian ngày nay.
-TP Ai đến Vũ Xương mà không ăn qua món cá, chẳng phải là tiếc lắm ru?
-Các Vũ Xương từ cổ đã có danh, trong Tam Quốc Chí có ghi:
-Ngô chủ Tôn Hạo muốn dời đô từ Kiến Nghiệp đến Vũ Xương, bá tánh không chịu, có bài đồng dao hát:
-Trữ ẩm Kiến nghiệp thủy, Bất thực Vũ Xương ngu.
-Nghĩa:
-Thà uống nước lã ở Kiến Nghiệp, chứ chẳng chịu ăn cá ở Vũ Xương.
-Đại thi nhân đời nhà Đường là Sầm Tham cũng có một câu rất nổi tiếng là Thu lai bội ức Vũ Xương ngư, mộng hồn chích tại Ba lăng đạo Thu đến muôn vàn cá Vũ Xương, mộng hồn ở tại Ba Lăng đạo.
-Dương Thu Trì nghĩ vậy bèn đáp:
-Chúng ta đi tìm một tửu lâu cạnh sông, ăn cá Vũ xương!
-Mọi người đều cho là phải.
-Dương Thu Trì cùng mọi người đi đến bờ sông, tìm một tửu lâu lớn, lên lầu hai ngồi.
-Từ đây có thể nhìn Trường Giang cuồng cuộn xa ngút trời xa, quả thực là có điểm Cực mục Sở thiên thư như Mao chủ tịch đã từng nói.
-Hiện giờ dân đói khắp nơi, chuyện làm ăn không được tốt lắm, chưởng quỹ thấy cả đám người sang trọng của Dương Thu Trì đi lên, mừng rỡ vô cùng, vội chạy ra nghênh tiếp.
-Nghe Dương Thu Trì nói muốn ăn cá Vũ Xương, chưởng quỹ tự hào khoe:
-Khách quan, ngài chọn đúng chỗ rồi, tửu lâu của chúng tôi làm món cá Vũ xương có thể nói là nhất ở Vũ Xương phủ này, các làm ra vừa mềm vừa trắng, ăn mát miệng đầy hương.
-Bão đảm ngài ăn một lần sẽ nhớ mãi không quên, còn muốn tới lần nữa.
-Hiện giờ đói khổ khắp nơi, làm ăn không tốt, chứ nếu là năm ngoại thì tửu lâu chúng tôi cung không kịp cầu, đến chậm chút là không có đâu đó nghe.
-Dương Thu Trì nghe lão nói mà ngón tay cái muốn trỏ lên trời, vội vã thúc lão đi làm đồ ăn.
-Chẳng mấy chốc sau, tửu yến đã được dọn lên, món chính là cá Vũ Xương.
-Đương nhiên Bạch Tố Mai cũng được chuẩn bị cho một bàn chay tươm tất, đồ an sạch sẽ thơm tho, đầu bếp chuyên nấu món chay chẳng dính chút đồ mặn nào cả.
-Dương Thu Trì chào mời mọi người động đủa, còn hắn thì cầm đũa ăn như rồng hút nước.
-Đột nhiên hắn thấy Tống Vân Nhi cứ dựa vào song cửa không động đũa, bèn hỏi:
-Vân nhi, muội sao không chịu ăn?
-Tống Vân Nhi chỉ vào hai bên đường phía dưới lầu, nơi có đầu hành khất và dân đói, lại có mấy người bị cắm búi cỏ lên đầu làm dấu bán, thở dài đáp:
-Nhìn bọn họ thảm như vậy, muội ăn không vô.
-Dương Thu Trì hơi bối rối, liền phân phù chưởng quỹ của tửu lâu chuẩn bị cho một nồi cháo lớn để cung cấp cho dân đói dưới lầu.
-Chưởng quỹ vội vã đáp ứng, không ngừng khen Dương Thu Trì hảo tâm nhân hậu.
-Tống Vân Nhi thấy Dương Thu Trì hiểu tâm tư của mình, lòng vui sướng vô cùng.
-Chẳng mấy chốc cháo đã chuẩn xong, các dân đói trên đường có đến hơn trăm, nghe nói tửu lâu sắp cho cháo, liền vây lại.
-Đều là người cùng khổ, họ không tranh cướp, xếp hàng lĩnh cháo, đội ngũ khá dài.
-Dương Thu Trì cùng mọi người ăn xong, cháo cũng đã hết, những vẫn còn dân đói chưa có cháo ăn.
-Dương Thu Trì thật sự áy náy nhìn những dân đói ngẩn ánh mắt khẩn cầu lên nhìn hắn, than cho năng lực hữu hạn, chẳng thể nào giúp xuể nhiều người như thế.
-Đến lúc này, ở ven đường có một tiểu nữ hài gây sự chú ý cho Dương Thu Trì.
-Cô bé khoảng mười bốn mười lăm tuổi, mặt vàng ốm yếu, tóc tai bỏ xõa rối bời, trên có cắm một cọc cỏ ra ý bán thân, ngồi bên đường chẳng hề động.
-Các quan binh tuần tiểu bước tới đá cô bé một cước coi đã chết chưa, đến lúc này cô bé mới hơi động đậy.
-Vừa rồi chỗ tửu lâu phát cháo rất gần với chỗ cô bé ngồi, nhưng cô bé rõ ràng là không đến lãnh cháo, có thể là ngay cả sức lực đứng dậy cũng không có, xem ra sắp chết đến nơi rồi.
-Bên cạnh tiểu nữ hài có hai trung niêm nam nữ nằm, do nằm sát vào bên trong nên các quan binh tuần tra không đá họ, nhưng từ tư thế nằm quái dị đó, Dương Thu Trì có thể khẳng định là hai người này đã chết mười mươi rồi.
-Người đàn bà trung niên kia còn ôm trong lòng một cậu bé gầy giơ xương cũng đã hết động đậy, tay còn lại của bà nắm chặt tay của cô bé, xem ra là người một nhà.
-Trước cảnh tượng người mẹ trước khi chết còn hộ vệ hài tử của mình, tình yêu thương sâu sắc của mẹ đã làm chấn động tâm can Dương Thu Trì, khiến hắn chợt xoay người chạy vội xuống lầu.
-Mọi người không biết hắn muốn làm gì, Tống Vân Nhi vội vã đứng dậy đuổi theo, Nam Cung Hùng dẫn theo vài hộ vệ khẩn trương theo Dương Thu Trì xuống lầu, chạy đến bên đường.
-Trên đường lớn nơi nào cũng có người đói nằm ngồi ngổn ngang, gió lạnh thổi mạnh, dân đói run lên cầm cập.
-Dương Thu Trì đến bên cạnh cô bé nhỏ, cầm tay nó lắc lắc, cảm giác tay của nó lạnh như băng.
-CÔ bé gian nan mở đôi mắt nhìn Dương Thu Trì, sau đó ngất đi.
-Cô bé còn sống, Dương Thu Trì lại lắc lắc hài tử trong lòng trung niên phụ nhân, thấy không có phản ứng, sờ động mạch cảnh của nó thì thấy không còn mạch đập nữa, đôi trung niên nam nữ cũng không còn chút mạch đập nào.
-Dương Thu Trì vạch mí mắt của họ ra, dùng tay đè lên nhãn châu, thấy con ngươi bị ép biến hình sau khi bỏ ra không hề khôi phục lại hình tròn, lòng hắn trầm xuống, dùng tay hoạt động cầm của họ một lúc, cảm giác thi cương đã xuất hiện, vì thế có thể xác định, đôi trung niên nam nữ và đứa bé trai trong lòng họ đều đã chết hết rồi.
-Tống Vân Nhi cũng buồn bả nói:
-Ca, bọn họ thật đáng thương, chúng ta cứu họ đi.
-Dương Thu Trì cũng đang có ý đó, gật gật đầu:
-Muội mau ẵm cô bé vào trong tửu lâu di.
-Còn cha mẹ nó thì sao?
-Tống Vân Nhi hỏi.
-Dương Thu Trì lắc đầu:
-Họ đã chết rồi, cả đứa nhỏ này cũng chết.
-Xong, hắn quay sang bảo Nam Cung Hùng:
-Ngươi phái người đi gọi quan binh tuần tra đem chôn thi thể của họ.
-Xem ra hiện tại người đói quá nhiều, đói chết, bệnh chết, lạnh chết, và còn có cướp tranh lương thực bị xử tử khẳng định cũng không ít, quan phủ nhất định là đào một hố to chôn được mấy trăm người, khi sắp đầy mới lắp đất lại.
-Tống Vân Nhi chẳng để ý gì đến sự dơ dáy trên người cô bé, ẵm nó vào lòng, thấy nhẹ hều như chẳng có vật gì, rồi nhanh chân bước vào tửu lâu.
-Sau khi trở về phòng ăn trên lầu, Dương Thu Trì nhờ chưỡng quỹ nhanh chóng mang đến một cái mền, bảo Tống Vân Nhi cỡi quần áo lam lũ của cô bé, cho mặc áo bó sát người, dùng mền quấn kín lại, đồng thời phân phù chưởng quỹ hâm cháo mang lên bón cho cô bé.
-Ăn từng chút một, cô bé nhỏ lấy lại tinh thần, rồi húp được một chén cháo, xong còn muốn ăn thêm.
-Tống Vân Nhi bới một chén cơm đưa cho nó ăn, tiểu nha hoàn Nguyệt Thiền vội vã cản lại, nói như vậy sẽ bị chết no, vì trước đây trong thôn của cũng có người đói, có người sau khi nhận được phần lương phát chẩn, đói quá rồi nên nhanh chóng nấu cơm ăn, kết quả bị no vỡ bụng chết.
-Do đó, mới đầu sau khi đói quá không được ăn nhiều, và cũng không được ăn đồ cứng.
-Tống Vân Nhi không hề trải qua hay cứu qua người đói, nên nghe lời Nguyệt Thiền nói, nhìn ánh mắt đầy khát vọng của cô bé nhỏ, cảm thấy thật do dự, không biết nên làm thế nào, đành nhìn Dương Thu Trì cầu cứu.
-Dương Thu trì gật đầu:
-Nguyệt Thiền nói đúng, từ từ ăn, trước hết xoa tay xoa chân cho nó đã, cho nó uống chút canh, chờ bao tử từ từ hồi phục thì bón thêm ít cháo, chờ nó có thể tự do hoạt động thì mới cho ăn cơm.
-Được sự chỉ dẫn của Dương Thu Trì, Tống Vân Nhi tự tin hơn, cho lò sưỡi trong phòng đượm thêm, quấnmền chặt hơn, rồi cùng tiểu nha hoàn Nguyệt Thiền không ngừng xoa chân tay của cô bé.
-Sau khi ăn xong bát cháo, cô bé ngủ mê đi một lúc, khi tỉnh lại thì nói khát nước, Dương Thu Trì lại cho người cho nó uống một chén nước cơm nhỏ.
-Nghỉ thêm một chút, ánh mắt của cô bé từ từ có thần, dùng giọng yếu ớt nói:
-Cảm tạ đại gia, cảm tạ tiểu thư, cha mẹ con đâu?
-Còn đệ đệ của con nữa?
-Tống Vân Nhi cầm tay nó, hơi áy náy đáp:
-Đã chết hết rồi.
-Cô bé bật khóc nức nở.
-Tiểu nha hoàn Nguyệt Thiền nhẹ giọng an ủi:
-Đừng khóc, người đã chết rồi em khóc còn có ích gì, hiện giờ tự chiếu cố bản thân khẩn yếu hơn.
-Nói xong vừa xoa bóp hai chân lạnh ngắt của cô bé, vừa thủ thỉ:
-Em yên tâm đi, thiếu gia của chúng ta có tâm địa tốt lắm, nhất định sẽ cứu tính mệnh cho em.
-Tiểu cô nương khóc lóc thưa:
-Đa ta ơn cứu mệnh của đại gia, Lô Oái cảm kích bất tận.
-Lô oái Lô hội, nha đam?
-Tên của ngươi là Lô oái?
-Dương Thu Trì hỏi.
-Cô bé gật đầu.
-Dương Thu Trì thầm nghĩ, sao mà lấy cái tên gì kỳ vậy, nhưng cũng chả trách, người ở nông thôn mà, lại là con gái nữa, tùy tiện lấy cái tên cây cỏ gì đó là được.
-Thấy cô bé lấy lại tinh thần rồi, hắn cho người bón cho nó chút cháo nữa, trong đó có nghiền thêm ít cá Vũ Xương.
-Cứ như vậy bận rộn thêm hơn nửa canh giờ, tay chân Lô Oái từ từ ấm trở lại, sau khi ăn thêm chén cháo có thịt cá Vũ Xương, đã lấy lại tinh thần rất nhiều.
-Dương Thu Trì bảo Nguyệt Thiền ra ngoài đi mua cho Lô Oái vài bộ áo quần ấm, bảo cô bé mặc vào.
-Dương Thu Trì hỏi:
-Lô Oái, quê của ngươi ở đâu?
-Hồ Quảng, Đức An Phủ, thôn ba cây liễu.
-Đức An phủ?
-Dương Thu Trì không hề có ấn tượng, không biết đó là nơi nào, liền nhìn Kim sư gia.
-Kim sư gia nói:
-Đức An phủ ở tây bắc Vũ Xương, cách đây vài trăm dặm.
-Dương Thu Trì quay sang Tống Vân Nhi ngoắc ngoắc tay.
-Tống Vân Nhi nhanh nhẹn đến bên hắn, không chờ hắn mở lời, đã hưng phấn giành nói trước:
-Ai!
-Thiệt không thể nhận ra, ngươi quả là có chút bản lĩnh!
-Sao ngươi biết con chó mực con này có thể tìm ra hung phạm?
-Con tiểu hắc cẩu cứ nhất mực đứng bên cạnh Dương Thu Trì.
-Lời Tống Vân Nhi rõ ràng là có ý khen nó.
-Nó dường như nghe được điều này, cao hứng vẫy đuôi liên tục.
-Chó nghiệp vụ có thể truy tung, trong xã hội hiện đại ai mà chả biết?
-Tuy nói là con tiểu hắc cẩu này chưa kinh qua huấn luyện chính quy, nhưng khứu giác của loài chó cực kỳ linh mẫn, hơn gấp vài chục lần so với người.
-Truy theo mùi vị vốn chính là năng lực bẩm sinh của chó.
-Con tiểu hắc cẩu này lại không phải là giống chó cò bình thường.
-Hung phạm để lại tinh dịch, vốn là thứ vừa có mùi đậm đặc lại vừa nồng.
-Do đó, chó theo đó mà truy ra hung phạm thì chẳng có gì là kỳ.
-Nhưng làm sao Dương Thu Trì có thể giải thích dài dòng với nàng như vậy, bèn đáp một cách ứng phó:
-Đoán mò vậy mà!
-Hãy khoan nói đến chuyện đó vội, cô giúp ta làm cái này được không?
-Vừa nghe Dương Thu Trì muốn nhờ nàng giúp đỡ, đây rõ ràng là cơ hội hiếm có của bản thân, Tống Vân Nhi liền phấn chấn tinh thần:
-Được a!
-Nói đi, giúp việc gì?
-Cô đem Tạ quả phụ vào phòng, lột khố ả raA!
-Ngươi muốn làm gì?
-Cởi khố ả ra?
-Ta không làm đâu!
-Tống Vân Nhi lắc đầu nguầy nguậy.
-Hơ!
-Cô đừng có ngắt lời, nghe ta nói xong cái đã!
-Tống Vân Nhi a lên một tiếng, ngoan ngoãn nghe Dương Thu Trì nói.
-Ta muốn cô tra khám một chút, xem chỗ kín của ả có giấu vật gì!
